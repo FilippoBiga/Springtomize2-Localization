@@ -1,9 +1,10 @@
-"Hide Labels" = "Cacher les labels";
-"Lock Moving" = "Vérouiller déplacement";
+"Icons" = "Icônes";
+"Hide Labels" = "Cacher titres";
+"Lock Moving" = "Verrouiller déplacement";
 "Disable Jittering" = "Pas de mouvement";
 "Disable Uninstalling" = "Pas de désinstallation";
-"Disable All Badges" = "Pas de badges";
-"2 Tap Clear Badge" = "2 tap supp badges";
+"Disable All Badges" = "Cacher badges";
+"2 Tap Clear Badge" = "2 Taps effacent badges";
 "Resizing" = "Redimensionner";
 "Resize Icons" = "Icônes";
 "Resize Dock Icons" = "Icônes du Dock";
@@ -24,5 +25,6 @@
 "Use Custom Number" = "Nombre personnalisé";
 "Icons" = "Icônes";
 "Enable" = "Activer";
-"Choose Icons" = "Icônes";
-"System Apps" = "Aplications";
+"Choose Icons" = "Choisir icônes";
+"System Apps" = "Applications système";
+"5 Rows" = "5 Colonnes";
