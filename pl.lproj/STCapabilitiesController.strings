@@ -1,0 +1,18 @@
+{
+    AppStore = "App Store";
+    "Battery Percentage" = "% baterii";
+    Capabilities = "Funkcje i elementy";
+    Contacts = Kontakty;
+    "Custom Capabilities" = "W\U0142\U0105cz";
+    "Front Camera" = "Przednia kamera";
+    GPS = GPS;
+    HDR = HDR;
+    "Homescreen WP" = "T\U0142o pod ikonami";
+    Magnetometer = Magnetometr;
+    Multitasking = "Wielozadaniowo\U015b\U0107";
+    Panorama = "Panoramiczne zdj\U0119cia";
+    SMS = SMS;
+    Telephony = Telefonia;
+    VoiceControl = "Kontrola g\U0142osowa";
+    "You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled." = "Uaktywnij powy\U017cszy prze\U0142\U0105cznik w celu zatwierdzenia zmian. W\U0142\U0105cz funkcje, kt\U00f3re maj\U0105 pozosta\U0107 aktywne.\n\n";
+}

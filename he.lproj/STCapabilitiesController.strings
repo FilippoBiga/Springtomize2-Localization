@@ -1,0 +1,15 @@
+"Custom Capabilities" = "יכולות מותאמות אישית";
+"You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled." = "ישנו צורך להפעיל יכולות מותאמות אישית על מנת להפעיל שינוי. החלק על היכולות שהינך רוצה שישארו.";
+"Homescreen WP" = "רקע";
+"VoiceControl" = "שליטה קולית";
+"Multitasking" = "מולטי-טאסקינג";
+"HDR" = "HDR";
+"Panorama" = "מצלמה פנורמית";
+"Front Camera" = "מצלמה קדמית";
+"SMS" = "SMS";
+"Telephony" = "אפשרות טלפונית";
+"Contacts" = "אנשי קשר";
+"Battery Percentage" = "אחוזי סוללה";
+"GPS" = "GPS";
+"AppStore" = "אפסטור";
+"Magnetometer" = "חיישן תנועה";

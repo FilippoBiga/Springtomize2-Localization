@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPSTORE_APPS</key>
+	<string>AppStore Appok</string>
+	<key>CANCEL_ACTIONSHEET</key>
+	<string>Mégse</string>
+	<key>CHOOSE_ACTION_ACTIONSHEET</key>
+	<string>Válassz lehetőséget</string>
+	<key>CREDITS</key>
+	<string>Köszönet</string>
+	<key>DISMISS_ALERT</key>
+	<string>Rendben</string>
+	<key>DISMISS_CREDITS</key>
+	<string>Rendben</string>
+	<key>INSTALL_ALERT</key>
+	<string>Telepítés</string>
+	<key>LIBRARIES_TITLE</key>
+	<string>Könyvtárak</string>
+	<key>RELOAD_BTN</key>
+	<string>Alkalmaz</string>
+	<key>RELOAD_SETTINGS_ACTIONSHET</key>
+	<string>Beállítások újratöltése</string>
+	<key>REPORT_CRASH_MSG</key>
+	<string>Hogyha összeomlást szeretnél bejelenteni, kérlek telepítsd a Crash Reportert a Cydiaból.</string>
+	<key>RESET_ACTIONSHEET</key>
+	<string>Visszállít</string>
+	<key>RESPRING_ACTIONSHEET</key>
+	<string>Springboard újraindítása</string>
+	<key>RESTORE</key>
+	<string>Visszaállít</string>
+	<key>RESTORE_DEFAULT_MSG</key>
+	<string>Ez visszaállítja a Springtomize alapértelmezett beállításait, és újraindítja a Springboardot.</string>
+	<key>RESTORING</key>
+	<string>Visszaállítás</string>
+	<key>SAVE</key>
+	<string>Mentés</string>
+	<key>SAVE_OR_RESTORE_BTN</key>
+	<string>Mentés/Visszaállítás</string>
+	<key>SAVING</key>
+	<string>Mentés</string>
+	<key>SETTINGS_FILES_TITLE</key>
+	<string>Beállítások fájljai</string>
+	<key>SETTINGS_FILES_WARNING</key>
+	<string></string>
+	<key>SYSTEM_APPS</key>
+	<string>Rendszeralkalmazások</string>
+	<key>WARNING_MS_ADDONS_MSG</key>
+	<string>Be- illetve ki tudsz kapcsolni minden MobileSubstrate kiegészítőt. A módosítások érvénybe lépéséhez a Springboard újraindítása lesz szükséges.
+
+Felhívnám a figyelmedet, hogy csak akkor módosítsd ezeket a beállításokat, hogyha tudod mit csinálsz, különben kárt tehetsz a készülékedben.</string>
+</dict>
+</plist>

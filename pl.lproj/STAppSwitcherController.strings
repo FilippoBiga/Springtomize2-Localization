@@ -1,0 +1,25 @@
+{
+    "App Switcher" = "Pasek wielozadaniowo\U015bci";
+    "Brightness Slider" = "Suwak jasno\U015bci";
+    "Custom Icons Number" = "Zmie\U0144 liczb\U0119 ikon";
+    "Dim Icon" = "Przyciemnij ikon\U0119";
+    "Disable Badges" = "Ukryj plakietki";
+    "Disable Paging" = "Wy\U0142\U0105cz stronicowanie";
+    Eight = 8;
+    Five = 5;
+    Four = 4;
+    "Hide from Switcher" = "Usu\U0144 z paska";
+    "Icons in Switcher" = "Liczba ikon w pasku";
+    "Inactive Apps Handling" = "Nieaktywne aplikacje";
+    "Landscape Switcher" = "Poziomy pasek";
+    Nine = 9;
+    None = "Bez zmian";
+    One = 1;
+    Seven = 7;
+    Six = 6;
+    "Start Editing" = "Zacznij od edycji";
+    "Start with iPod" = "Zacznij od iPoda";
+    Ten = 10;
+    Three = 3;
+    Two = 2;
+}

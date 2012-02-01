@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppStore</key>
+	<string>AppStore</string>
+	<key>Battery Percentage</key>
+	<string>Akku százaléka</string>
+	<key>Contacts</key>
+	<string>Kontaktok</string>
+	<key>Custom Capabilities</key>
+	<string>Egyéni képességek</string>
+	<key>Front Camera</key>
+	<string>Első kamera</string>
+	<key>GPS</key>
+	<string>GPS</string>
+	<key>HDR</key>
+	<string>HDR</string>
+	<key>Homescreen WP</key>
+	<string>Főképernyő háttérkép</string>
+	<key>Magnetometer</key>
+	<string>Iránytű</string>
+	<key>Multitasking</key>
+	<string>Háttérben futó alkalmazások</string>
+	<key>Panorama</key>
+	<string>Panoráma</string>
+	<key>SMS</key>
+	<string>SMS</string>
+	<key>Telephony</key>
+	<string>Telefon</string>
+	<key>VoiceControl</key>
+	<string>Hangvezérlés</string>
+	<key>You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled.</key>
+	<string></string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2 Tap Clear Badge</key>
+	<string>2 Toques elimina Crachá</string>
+	<key>Choose Icons</key>
+	<string>Escolher Icones</string>
+	<key>Disable All Badges</key>
+	<string>Desactivar Crachás</string>
+	<key>Disable Jittering</key>
+	<string>Desactivar Tremer</string>
+	<key>Disable Uninstalling</key>
+	<string>Não Desinstalar</string>
+	<key>Enable</key>
+	<string>Activar</string>
+	<key>Hide Icons</key>
+	<string>Esconder Icones</string>
+	<key>Hide Labels</key>
+	<string>Esconder Títulos</string>
+	<key>Hide Newsstand</key>
+	<string>Esconder Quiosque</string>
+	<key>Hide Springtomize</key>
+	<string>Esconder Springtomize</string>
+	<key>Icons Per Line</key>
+	<string>Icones por Linha</string>
+	<key>Lock Moving</key>
+	<string>Bloquear Mover</string>
+	<key>Resize Dock Icons</key>
+	<string>Icones Doca</string>
+	<key>Resize Icons</key>
+	<string>Icones</string>
+	<key>Resize Switcher Icons</key>
+	<string>Icones Multitarefa</string>
+	<key>Resizing</key>
+	<string>Redimensionar</string>
+	<key>Use Custom Number</key>
+	<string>Definir Nº Icones</string>
+</dict>
+</plist>

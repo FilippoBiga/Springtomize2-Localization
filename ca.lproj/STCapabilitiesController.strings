@@ -1,0 +1,15 @@
+"Custom Capabilities" = "Personalitzar Carpetes";
+"You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled." = "Has d'activar Personalitzar Capacitats per tal que s'apliquin les modificacions. Activa les capacitats que vols mantenir actives.";
+"Homescreen WP" = "Fons de Pantalla";
+"VoiceControl" = "Control de Veu";
+"Multitasking" = "Multitasca";
+"HDR" = "HDR";
+"Panorama" = "Panorama";
+"Front Camera" = "Camera Frontal";
+"SMS" = "SMS";
+"Telephony" = "Telefon";
+"Contacts" = "Contacte";
+"Battery Percentage" = "Percentatge Bateria";
+"GPS" = "GPS";
+"AppStore" = "AppStore";
+"Magnetometer" = "Magnetometre";

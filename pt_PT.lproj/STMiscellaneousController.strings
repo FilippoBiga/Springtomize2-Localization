@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Documentation</key>
+	<string>Manual do Utilizador</string>
+	<key>MobileSubstrate Addons</key>
+	<string>Acerca do MobileSubstrate</string>
+	<key>Report a problem</key>
+	<string>Reportar um problema</string>
+	<key>Reset Defaults</key>
+	<string>Repôr Definições</string>
+	<key>Settings Files</key>
+	<string>Ficheiros Definições</string>
+</dict>
+</plist>

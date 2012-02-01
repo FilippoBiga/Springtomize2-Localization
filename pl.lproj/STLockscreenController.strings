@@ -1,0 +1,19 @@
+{
+    "Always Charging" = "Zawsze pokazuj bateri\U0119";
+    "Always Show Camera" = "Zawsze pokazuj aparat";
+    "Always Show WP" = "Zawsze pokazuj tapet\U0119";
+    "Custom Label" = "Niestandardowy suwak";
+    "Custom Label Mode" = "Zast\U0105p suwak";
+    "Custom String" = "W\U0142asny tekst";
+    "Delay Dimming" = "Op\U00f3\U017anij wygaszanie";
+    "Disable Artwork" = "Wy\U0142\U0105cz ok\U0142adki";
+    "Disable Camera Button" = "Wy\U0142\U0105cz przycisk aparatu";
+    "Display Seconds" = "Wy\U015bwietl sekundy";
+    "Enter Custom Label" = "Wprowad\U017a w\U0142asny tekst";
+    "Hide Knob" = "Ukryj suwak";
+    "Hide Top Bar" = "Ukryj g\U00f3rn\U0105 belk\U0119";
+    Lockscreen = "Ekran blokady";
+    Slider = Suwak;
+    Time = Zegar;
+    "Time with AM/PM" = "Zegar AM/PM";
+}

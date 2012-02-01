@@ -1,0 +1,23 @@
+{
+    "Auto Close" = "Autmatycznie zamykaj";
+    "Create in Dock" = "Utw\U00f3rz w Docku";
+    "Disable Animation" = "Wy\U0142\U0105cz animacj\U0119";
+    "Disable Badges" = "Ukryj plakietki";
+    Eight = 8;
+    Five = 5;
+    Folders = Foldery;
+    "Folders Closebox" = "Usuwanie folder\U00f3w";
+    Four = 4;
+    "Hide Background" = "Ukryj t\U0142o";
+    "Hide Label" = "Ukryj nazw\U0119";
+    "Hide Preview" = "Ukryj podgl\U0105d";
+    "Icons per Line" = "Liczba ikon";
+    Nine = 9;
+    One = 1;
+    Seven = 7;
+    Six = 6;
+    Ten = 10;
+    Three = 3;
+    Two = 2;
+    "Use Custom Number" = "Zmie\U0144 liczb\U0119 ikon";
+}

@@ -1,0 +1,16 @@
+"Capabilities" = "相容性";
+"Custom Capabilities" = "自訂相容性";
+"You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled." = "您必須啟用自訂相容性以套用變更。開啟您想持續啟用之相容性項目。";
+"Homescreen WP" = "主畫面桌面背景";
+"VoiceControl" = "語音控制";
+"Multitasking" = "多工處理";
+"HDR" = "HDR";
+"Panorama" = "全景拍攝";
+"Front Camera" = "前鏡頭";
+"SMS" = "簡訊";
+"Telephony" = "通話";
+"Contacts" = "聯絡人";
+"Battery Percentage" = "電池容量百分比";
+"GPS" = "GPS";
+"AppStore" = "AppStore";
+"Magnetometer" = "磁力儀";

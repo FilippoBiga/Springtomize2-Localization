@@ -1,0 +1,16 @@
+"Capabilities" = "기능 관리";
+"Custom Capabilities" = "사용자 기능 관리";
+"You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled." = "기능 관리 변경 사항을 적용하기 위해서는 사용자 기능 관리 설정을 활성화해야 합니다. 사용을 유지하고자 하는 기능을 켜십시오.";
+"Homescreen WP" = "홈 화면 배경이미지";
+"VoiceControl" = "음성 명령";
+"Multitasking" = "멀티태스킹";
+"HDR" = "HDR (고명암 대비)";
+"Panorama" = "파노라마 촬영";
+"Front Camera" = "전면 카메라";
+"SMS" = "메시지";
+"Telephony" = "전화";
+"Contacts" = "연락처";
+"Battery Percentage" = "배터리 잔량 (%)표시";
+"GPS" = "GPS (위치 서비스)";
+"AppStore" = "앱 스토어";
+"Magnetometer" = "나침반";

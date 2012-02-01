@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Auto Close</key>
+	<string>Fechar Automaticamente</string>
+	<key>Create in Dock</key>
+	<string>Criar na Doca</string>
+	<key>Disable Animation</key>
+	<string>Desactivar Animação</string>
+	<key>Disable Badges</key>
+	<string>Desactivar Crachás</string>
+	<key>Folders Closebox</key>
+	<string>Botão Fechar Pasta</string>
+	<key>Hide Background</key>
+	<string>Esconder Fundo</string>
+	<key>Hide Label</key>
+	<string>Esconder Título</string>
+	<key>Hide Preview</key>
+	<string>Esconder Previsão</string>
+	<key>Icons per Line</key>
+	<string>Icones por Linha</string>
+	<key>Use Custom Number</key>
+	<string>Definir Nº Icones</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+    Airplane = "Tryb samolot";
+    Alarm = Budzik;
+    Battery = Bateria;
+    "Battery Percent" = "% baterii";
+    Bluetooth = Bluetooth;
+    "Bluetooth Battery" = "Bateria Bluetooth";
+    "Call Forwarding" = "Przekazywanie po\U0142\U0105cze\U0144";
+    "Carrier Name" = Operator;
+    "Custom Carrier" = "Niestandardowy operator";
+    "Custom String" = "W\U0142asny tekst";
+    "Custom Time" = "Niestandardowy zegar";
+    "Custom Time Mode" = "Element zast\U0119puj\U0105cy";
+    "Data IP" = "EDGE/3G IP";
+    "Data Network" = "Sie\U0107 danych";
+    "Enter name" = "Wprowad\U017a nazw\U0119";
+    "Free RAM" = "Wolna pami\U0119\U0107";
+    "Hide Status Bar Items" = "Ukryj elementy paska statusu";
+    Location = Lokalizacja;
+    Play = Odtwarzanie;
+    Rotation = Rotacja;
+    "Signal Strength" = "Zasi\U0119g";
+    "Status Bar" = "Pasek statusu";
+    "Sync Indicator" = Synchronizacja;
+    Time = Czas;
+    "Use Custom Carrier" = "W\U0142asna nazwa";
+    "Use Custom Time" = "Zast\U0105p zegar";
+    VPN = VPN;
+    "WiFi Network" = "Sie\U0107 WiFi";
+}

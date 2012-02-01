@@ -1,0 +1,28 @@
+{
+    Animations = Animacje;
+    "App to App transition" = "Przej\U015bcie mi\U0119dzy aplikacjami";
+    Black = Czarny;
+    Blue = Niebieski;
+    Brown = "Br\U0105zowy";
+    Color = Kolor;
+    "Custom Duration" = "Niestandardowa d\U0142ugo\U015b\U0107";
+    Cyan = "B\U0142\U0119kitny";
+    Gray = Szary;
+    Green = Zielony;
+    "Lock Animation" = "Animacja blokady";
+    Magenta = Karmazynowy;
+    "Old Tv Animation" = "Stary telewizor";
+    Orange = "Pomara\U0144czowy";
+    "Play Sound" = "Odtw\U00f3rz d\U017awi\U0119k";
+    Purple = Fioletowy;
+    Random = Losowy;
+    Red = Czerwony;
+    "Screenshot Flash" = "B\U0142ysk zrzutu ekranu";
+    "Slow Motion" = "Zwolnione tempo";
+    "Slow Motion Mode" = "Tryb zwolnionego tempa";
+    Transparent = Przezroczysty;
+    "Use Custom Color" = "U\U017cyj w\U0142asnego koloru";
+    "Vertical Animation" = "Pionowa animacja";
+    White = "Bia\U0142y";
+    Yellow = "\U017b\U00f3\U0142ty";
+}

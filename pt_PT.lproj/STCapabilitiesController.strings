@@ -1,0 +1,15 @@
+"Custom Capabilities" = "Definir Funcionalidades";
+"You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled." = "Necessita de activar 'Definir Funcionalidades' para aplicar modificações. Desactive as Funcionalidades a excluir.";
+"Homescreen WP" = "Fundo de trabalho";
+"VoiceControl" = "Controlo por voz";
+"Multitasking" = "Multitarefa";
+"HDR" = "HDR";
+"Panorama" = "Panorâmico";
+"Front Camera" = "Câmera Frontal";
+"SMS" = "SMS";
+"Telephony" = "Telefone";
+"Contacts" = "Contactos";
+"Battery Percentage" = "Percentagem Bateria";
+"GPS" = "GPS";
+"AppStore" = "AppStore";
+"Magnetometer" = "Magnetometro";

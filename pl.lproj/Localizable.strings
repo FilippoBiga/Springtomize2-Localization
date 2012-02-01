@@ -1,0 +1,25 @@
+{
+    "APPSTORE_APPS" = "Programy z App Store";
+    "CANCEL_ACTIONSHEET" = Anuluj;
+    "CHOOSE_ACTION_ACTIONSHEET" = "Wybierz akcj\U0119";
+    CREDITS = "Podzi\U0119kowania";
+    "DISMISS_ALERT" = Anuluj;
+    "DISMISS_CREDITS" = "Wr\U00f3\U0107";
+    "INSTALL_ALERT" = Zainstaluj;
+    "LIBRARIES_TITLE" = Rozszerzenia;
+    "RELOAD_BTN" = "Prze\U0142aduj";
+    "RELOAD_SETTINGS_ACTIONSHET" = "Prze\U0142aduj ustawienia";
+    "REPORT_CRASH_MSG" = "Je\U015bli zg\U0142aszasz usterk\U0119, najpierw zainstaluj Crash Reporter z Cydia Store.";
+    "RESET_ACTIONSHEET" = Resetuj;
+    "RESPRING_ACTIONSHEET" = "Prze\U0142aduj SpringBoard";
+    RESTORE = "Przywr\U00f3\U0107";
+    "RESTORE_DEFAULT_MSG" = "Zostan\U0105 przywr\U00f3ce domy\U015blne ustawienia Springtomize i wykonany tzw. \"respring\".";
+    RESTORING = Przywracanie;
+    SAVE = Zapisz;
+    "SAVE_OR_RESTORE_BTN" = "Zapisz/Przywr\U00f3\U0107";
+    SAVING = Zapisywanie;
+    "SETTINGS_FILES_TITLE" = "Pliki ustawie\U0144";
+    "SETTINGS_FILES_WARNING" = "Tutaj wy\U015bwietlone s\U0105 wszystkie ustawienia przechowywane w tym urz\U0105dzeniu, nale\U017c\U0105ce do rozszerze\U0144 i aplikacji dost\U0119pnych po jailbreaku. Przesu\U0144 palcem po danym polu, aby usun\U0105\U0107 dany plik. Mo\U017ce okaza\U0107 si\U0119 to pomocne przy rozwi\U0105zywaniu problem\U00f3w.";
+    "SYSTEM_APPS" = "Programy systemowe";
+    "WARNING_MS_ADDONS_MSG" = "Mo\U017cesz w\U0142\U0105czy\U0107 lub wy\U0142\U0105czy\U0107 dowolne rozszerzenie oparte na MobileSubstrate. Do zatwierdzenia jakichkolwiek zmian wymagany jest tzw. \"respring\".\n\nPami\U0119taj, \U017ce powiniene\U015b korzysta\U0107 z tych opcji tylko wtedy, gdy wiesz, co robisz albo licz si\U0119 z mo\U017cliwo\U015bci\U0105 uszkodzenia oprogramowania.";
+}

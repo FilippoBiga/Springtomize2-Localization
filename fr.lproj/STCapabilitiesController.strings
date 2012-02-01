@@ -1,0 +1,10 @@
+"Capabilities" = "Fonctionnalités";
+"Custom Capabilities" = "Modifier les fonctionalités";
+"You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled." = "Vous devez activer Modifier les fonctionalités pour appliquer n'importe quelle modification. Activer les fonctionnalitées que vous voulez utiliser";
+"Magnetometer" = "Magnétomètre";
+"Battery Percentage" = "Pourcentage Batterie";
+"Telephony" = "Téléphone";
+"Front Camera" = "Caméra Frontale";
+"Multitasking" = "Multitâche";
+"Homescreen WP" = "WP HomeScreen";
+"VoiceControl" = "Contrôle vocale";

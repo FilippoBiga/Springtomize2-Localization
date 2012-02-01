@@ -1,0 +1,36 @@
+/* 
+ *  Created by Filippo Bigarella on 30/12/11.
+ *
+ */
+
+RELOAD_BTN = "Aggiorna";
+CHOOSE_ACTION_ACTIONSHEET = "Scegli un'opzione";
+CANCEL_ACTIONSHEET = "Annulla";
+RESPRING_ACTIONSHEET = "Respring";
+RELOAD_SETTINGS_ACTIONSHET = "Ricarica Impostazioni";
+
+SYSTEM_APPS = "App di Sistema";
+APPSTORE_APPS = "App Store";
+
+
+CREDITS = "Ringraziamenti";
+DISMISS_CREDITS = "Chiudi"; 
+
+REPORT_CRASH_MSG = "Se devi segnalare un crash, per favore installa Crash Reporter tramite Cydia.";
+DISMISS_ALERT = "Annulla";
+INSTALL_ALERT = "Installa";
+RESTORE_DEFAULT_MSG = "Questa opzione ripristerà le impostazioni iniziali di Springtomize ed effettuerà un respring.";
+RESET_ACTIONSHEET = "Procedi";
+
+
+LIBRARIES_TITLE = "Estensioni";
+WARNING_MS_ADDONS_MSG = "In questa sezione puoi abilitare o disabilitare qualsiasi estensioni del Mobile Substrate. Sarà necessario un respring per applicare qualsiasi modifica. Dovresti modificare queste opzioni solamente se sei sicuro di ciò che stai facendo, altrimenti potresti danneggiare il tuo dispositivo.";
+
+SETTINGS_FILES_TITLE = "File Impostazioni";
+SETTINGS_FILES_WARNING = "Qui di seguito sono mostrati tutti i file di impostazioni presenti sul tuo dispositivo ed appartenenti ad un'applicazione installata tramite Cydia. Effettua uno swipe sul loro nome per cancellarli. Questa funzione può essere utile per cancellare impostazioni danneggiate.";
+
+SAVE_OR_RESTORE_BTN = "Salva/Ripristina";
+SAVE = "Salva";
+RESTORE = "Ripristina";
+SAVING = "Salvataggio";
+RESTORING = "Ripristino";

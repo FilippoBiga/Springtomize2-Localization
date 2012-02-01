@@ -1,0 +1,30 @@
+{
+    "2 Tap Clear Badge" = "Ukryj plakietk\U0119 2 stuk.";
+    "Choose Icons" = "Wybierz ikony";
+    "Disable All Badges" = "Ukryj wszystkie plakietki";
+    "Disable Jittering" = "Wy\U0142\U0105cz drganie";
+    "Disable Uninstalling" = "Wy\U0142\U0105cz usuwanie";
+    Eight = 8;
+    Enable = "Ukryj inne ikony";
+    Five = 5;
+    Four = 4;
+    "Hide Icons" = "Ukryj ikony";
+    "Hide Labels" = "Ukryj nazwy";
+    "Hide Newsstand" = "Ukryj Kiosk";
+    "Hide Springtomize" = "Ukryj Springtomize";
+    Icons = Ikony;
+    "Icons Per Line" = "Liczba ikon w wierszu";
+    "Lock Moving" = "Zablokuj po\U0142o\U017cenie";
+    Nine = 9;
+    One = 1;
+    "Resize Dock Icons" = "Rozmiar ikon w Docku";
+    "Resize Icons" = "Rozmiar ikon";
+    "Resize Switcher Icons" = "Rozmiar ikon w pasku";
+    Resizing = "Rozmiar ikon";
+    Seven = 7;
+    Six = 6;
+    Ten = 10;
+    Three = 3;
+    Two = 2;
+    "Use Custom Number" = "Zmie\U0144 liczb\U0119 ikon";
+}

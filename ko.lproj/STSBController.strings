@@ -1,0 +1,13 @@
+"Layout" = "설정 관리";
+"Backup Options" = "백업 옵션";
+"Icon State" = "아이콘 상태";
+"Wallpaper" = "배경이미지";
+"Springtomize Settings" = "Springtomize 설정";
+"Restore Options" = "복원 옵션";
+"Icon State" = "아이콘 상태";
+"Wallpaper" = "배경이미지";
+"Springtomize Settings" = "Springtomize 설정";
+"On-the-fly Reload" = "복원 후 설정 자동 재시작";
+"Automatic Backup" = "자동 백업";
+"Enable" = "사용";
+"While this option is enabled, Springtomize will automatically perform a backup, once a day." = "이 기능을 사용하면, 하루에 한번 Springtomize가 자동 백업을 실행합니다.";

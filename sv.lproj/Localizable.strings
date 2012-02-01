@@ -1,0 +1,37 @@
+﻿/* 
+ *  Created by Filippo Bigarella on 30/12/11.
+ * 
+ */
+
+RELOAD_BTN = "Uppdatera";
+CHOOSE_ACTION_ACTIONSHEET = "Välj";
+CANCEL_ACTIONSHEET = "Avbryt";
+RESPRING_ACTIONSHEET = "Respring";
+RELOAD_SETTINGS_ACTIONSHET = "Uppdatera Inställningarna";
+
+SYSTEM_APPS = "System-Appar";
+APPSTORE_APPS = "AppStore-Appar";
+
+
+CREDITS = "Credits";
+DISMISS_CREDITS = "Tillbaka"; 
+
+REPORT_CRASH_MSG = "Om du rapporterar en krash, var god installera Crash Reporter från Cydia.";
+DISMISS_ALERT = "Avbryt";
+INSTALL_ALERT = "Installera";
+RESTORE_DEFAULT_MSG = "Detta kommer att återställa standardinställningarna för Springtomize och genomföra en respring.";
+RESET_ACTIONSHEET = "Återställ";
+
+
+LIBRARIES_TITLE = "MobileSubstrate Tillägg";
+WARNING_MS_ADDONS_MSG = "Här kan du aktivera eller avaktivera MobileSubstrate tillägg. Du behöver göra en respring för att ändringen ska slå igenom.\n\
+Varning! Ändra endast dessa inställningar om du vet vad du gör annars kan du skada din enhet.";
+
+SETTINGS_FILES_TITLE = "Inställningsfiler";
+SETTINGS_FILES_WARNING = "";
+
+SAVE_OR_RESTORE_BTN = "Spara/Återställ";
+SAVE = "Spara";
+RESTORE = "Återställ";
+SAVING = "Sparar";
+RESTORING = "Återställer";

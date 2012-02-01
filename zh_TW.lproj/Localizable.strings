@@ -1,0 +1,36 @@
+/* 
+ *  Created by Filippo Bigarella on 30/12/11.
+ * 
+ */
+
+RELOAD_BTN = "重新載入";
+CHOOSE_ACTION_ACTIONSHEET = "選擇方式";
+CANCEL_ACTIONSHEET = "取消";
+RESPRING_ACTIONSHEET = "重新載入主畫面";
+RELOAD_SETTINGS_ACTIONSHET = "重新載入設定";
+
+SYSTEM_APPS = "系統應用程式";
+APPSTORE_APPS = "使用者應用程式";
+
+
+CREDITS = "Credits";
+DISMISS_CREDITS = "好"; 
+
+REPORT_CRASH_MSG = "如果您要回報當機問題，請在 Cydia 安裝 Crash Reporter。";
+DISMISS_ALERT = "好";
+INSTALL_ALERT = "安裝";
+RESTORE_DEFAULT_MSG = "這將回復至 Springtomize 的初始設定並重新載入裝置的主畫面。";
+RESET_ACTIONSHEET = "重置";
+
+
+LIBRARIES_TITLE = "資源庫";
+WARNING_MS_ADDONS_MSG = "您可以啟用或停用 MobileSubstrate 附加元件。必須重新載入主畫面以套用變更。\n\ 請小心，您應該針對您了解的項目作調整，以免對您的裝置造成損害。";
+
+SETTINGS_FILES_TITLE = "設定檔案";
+SETTINGS_FILES_WARNING = "這裡顯示了所有存在於您裝置裡越獄後安裝的軟體設定檔案。在項目上滑動以刪除檔案。這對於解決問題可能會有幫助。";
+
+SAVE_OR_RESTORE_BTN = "備份/還原";
+SAVE = "備份";
+RESTORE = "還原";
+SAVING = "正在備份";
+RESTORING = "正在還原";

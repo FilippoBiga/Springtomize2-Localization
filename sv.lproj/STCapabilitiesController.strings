@@ -1,0 +1,16 @@
+﻿"Custom Capabilities" = "Anpassade egenskaper";
+
+"You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled." = "Du måste aktivera anpassade egenskaper för att genomföra några ändringar nedan. Aktivera de egenskaper du vill använda";
+"Homescreen WP" = "Hemskärmsbakgrund";
+"VoiceControl" = "Röstkontroll";
+"Multitasking" = "Multitasking";
+"HDR" = "HDR";
+"Panorama" = "Panorama";
+"Front Camera" = "Främre Kamera";
+"SMS" = "SMS";
+"Telephony" = "Telefon";
+"Contacts" = "Kontakter";
+"Battery Percentage" = "Batteri Procent";
+"GPS" = "GPS";
+"AppStore" = "AppStore";
+"Magnetometer" = "Magnetometer";

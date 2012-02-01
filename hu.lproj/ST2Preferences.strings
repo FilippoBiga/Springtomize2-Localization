@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Animations</key>
+	<string>Animációk</string>
+	<key>App Switcher</key>
+	<string>Alkalmazásváltó (Switcher)</string>
+	<key>Capabilities</key>
+	<string>Képességek</string>
+	<key>Dock</key>
+	<string>Dokk</string>
+	<key>Enabled</key>
+	<string>Engedélyezve</string>
+	<key>Folders</key>
+	<string>Mappák</string>
+	<key>Icons</key>
+	<string>Ikonok</string>
+	<key>LockScreen</key>
+	<string>Zárolt képernyő</string>
+	<key>More</key>
+	<string>Több</string>
+	<key>Notification Center</key>
+	<string>Értesítési központ</string>
+	<key>Pages</key>
+	<string>Oldalak</string>
+	<key>Settings</key>
+	<string>Beállítások</string>
+	<key>Status Bar</key>
+	<string>Állapotsor</string>
+	<key>Theming</key>
+	<string>Témák</string>
+	<key>Time Machine</key>
+	<string>Időgép</string>
+</dict>
+</plist>

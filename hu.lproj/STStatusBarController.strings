@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Airplane</key>
+	<string>Repülőgép</string>
+	<key>Alarm</key>
+	<string>Ébresztő</string>
+	<key>Battery</key>
+	<string>Akku</string>
+	<key>Battery Percent</key>
+	<string>Akku százaléka</string>
+	<key>Bluetooth</key>
+	<string>Bluetooth</string>
+	<key>Bluetooth Battery</key>
+	<string>Bluetooth akku</string>
+	<key>Call Forwarding</key>
+	<string>Hívástovábbítás</string>
+	<key>Carrier Name</key>
+	<string>Szolgáltató</string>
+	<key>Custom Carrier</key>
+	<string>Egyéni szolgáltatónév</string>
+	<key>Custom String</key>
+	<string>Egyéni szöveg</string>
+	<key>Custom Time</key>
+	<string>Egyéni idő</string>
+	<key>Custom Time Mode</key>
+	<string>Egyéni időmód</string>
+	<key>Data Network</key>
+	<string>Mobilhálózat</string>
+	<key>Enter Name</key>
+	<string>Írj be egy nevet</string>
+	<key>Free RAM</key>
+	<string>Szabad RAM</string>
+	<key>Hide Status Bar Items</key>
+	<string>Állapotsori elemek elrejtése</string>
+	<key>Location</key>
+	<string>Hely</string>
+	<key>Play</key>
+	<string>Lejátszás</string>
+	<key>Rotation</key>
+	<string>Elforgatás</string>
+	<key>Signal Strength</key>
+	<string>Jelerősség</string>
+	<key>Sync Indicator</key>
+	<string>Szinkronizálás jelző</string>
+	<key>Time</key>
+	<string>Idő</string>
+	<key>Use Custom Carrier</key>
+	<string>Egyéni szolgáltatónév</string>
+	<key>Use Custom Time</key>
+	<string>Egyéni idő</string>
+	<key>VPN</key>
+	<string>VPN</string>
+	<key>WiFi Network</key>
+	<string>WiFi hálózat</string>
+</dict>
+</plist>

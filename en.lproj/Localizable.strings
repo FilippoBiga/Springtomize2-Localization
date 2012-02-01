@@ -1,0 +1,37 @@
+/* 
+ *  Created by Filippo Bigarella on 30/12/11.
+ * 
+ */
+
+RELOAD_BTN = "Reload";
+CHOOSE_ACTION_ACTIONSHEET = "Choose Action";
+CANCEL_ACTIONSHEET = "Cancel";
+RESPRING_ACTIONSHEET = "Respring";
+RELOAD_SETTINGS_ACTIONSHET = "Reload Settings";
+
+SYSTEM_APPS = "System Apps";
+APPSTORE_APPS = "AppStore Apps";
+
+
+CREDITS = "Credits";
+DISMISS_CREDITS = "Dismiss"; 
+
+REPORT_CRASH_MSG = "If you are reporting a crash, please install Crash Reporter from Cydia.";
+DISMISS_ALERT = "Dismiss";
+INSTALL_ALERT = "Install";
+RESTORE_DEFAULT_MSG = "This will restore the default Springtomize settings and respring your device.";
+RESET_ACTIONSHEET = "Reset";
+
+
+LIBRARIES_TITLE = "Libraries";
+WARNING_MS_ADDONS_MSG = "You can enable or disable any MobileSubstrate addon. You will need to respring to apply any modification.\n\
+Be aware that you should touch these options only if you know what you're doing, or you may damage your device.";
+
+SETTINGS_FILES_TITLE = "Settings Files";
+SETTINGS_FILES_WARNING = "Here are displayed all the settings files stored on your device, belonging to a tweak or a jailbroken application. Swipe on a cell to delete the file. This may be helpful in case of troubleshooting.";
+
+SAVE_OR_RESTORE_BTN = "Save/Restore";
+SAVE = "Save";
+RESTORE = "Restore";
+SAVING = "Saving";
+RESTORING = "Restoring";

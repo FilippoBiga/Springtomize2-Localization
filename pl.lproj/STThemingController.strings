@@ -1,0 +1,36 @@
+{
+    Battery = Bateria;
+    Black = Czarny;
+    Blue = Niebieski;
+    Brown = "Br\U0105zowy";
+    "Choose Battery" = "Wybierz bateri\U0119";
+    "Choose Dock" = "Wybierz Dock";
+    "Custom Battery" = "Niestandardowa bateria";
+    "Custom Color" = "Niestandardowy kolor";
+    "Custom Dock" = "Niestandardowy Dock";
+    "Custom Font" = "Zmie\U0144 czcionk\U0119";
+    "Custom Opacity" = "Zmie\U0144 przezroczysto\U015b\U0107";
+    "Custom Size" = "Niestandardowy rozmiar";
+    Cyan = "B\U0142\U0119kitny";
+    Dock = Dock;
+    Fonts = Czcionki;
+    Gray = Szary;
+    Grayscale = "Czarno-bia\U0142e";
+    Green = Zielony;
+    "Icon Labels" = "Nazwy aplikacji";
+    Icons = Ikony;
+    "Image Effect" = Efekty;
+    Magenta = Karmazynowy;
+    None = Brak;
+    Orange = "Pomara\U0144czowy";
+    Purple = Fioletowy;
+    Random = Losowy;
+    Red = Czerowny;
+    "Select Color" = "Wybierz kolor";
+    "Select Font" = "Wybierz czcionk\U0119";
+    Sepia = Sepia;
+    Theming = Motywy;
+    Transparent = Przezroczysty;
+    White = "Bia\U0142y";
+    Yellow = "\U017b\U00f3\U0142ty";
+}

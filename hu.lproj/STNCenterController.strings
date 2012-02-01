@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Custom Lines</key>
+	<string>Egyéni sorszám</string>
+	<key>Eight</key>
+	<string>Nyolc</string>
+	<key>Fifteen</key>
+	<string>Tizenöt</string>
+	<key>Five</key>
+	<string>Öt</string>
+	<key>Four</key>
+	<string>Négy</string>
+	<key>Instant Clear</key>
+	<string>Azonnali ürítés</string>
+	<key>Max Lines</key>
+	<string>Maximum sorok</string>
+	<key>Nine</key>
+	<string>Kilenc</string>
+	<key>One</key>
+	<string>Egy</string>
+	<key>Seven</key>
+	<string>Hét</string>
+	<key>Six</key>
+	<string>Hat</string>
+	<key>Ten</key>
+	<string>Tíz</string>
+	<key>Thirty</key>
+	<string>Harminc</string>
+	<key>Three</key>
+	<string>Három</string>
+	<key>Twenty</key>
+	<string>Húsz</string>
+	<key>Twentyfive</key>
+	<string>Huszonöt</string>
+	<key>Two</key>
+	<string>Kettő</string>
+</dict>
+</plist>

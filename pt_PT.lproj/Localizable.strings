@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPSTORE_APPS</key>
+	<string>Apps AppStore</string>
+	<key>CANCEL_ACTIONSHEET</key>
+	<string>Cancelar</string>
+	<key>CHOOSE_ACTION_ACTIONSHEET</key>
+	<string>Escolher Acção</string>
+	<key>CREDITS</key>
+	<string>Ficha técnica</string>
+	<key>DISMISS_ALERT</key>
+	<string>Dispensar</string>
+	<key>DISMISS_CREDITS</key>
+	<string>Dispensar</string>
+	<key>INSTALL_ALERT</key>
+	<string>Instalar</string>
+	<key>LIBRARIES_TITLE</key>
+	<string>MobileSubstrate</string>
+	<key>RELOAD_BTN</key>
+	<string>Recarregar</string>
+	<key>RELOAD_SETTINGS_ACTIONSHET</key>
+	<string>Actualizar Definições</string>
+	<key>REPORT_CRASH_MSG</key>
+	<string>Se deseja reportar um crash da aplicação, instale o 'Crash Reporter' a partir do Cydia.</string>
+	<key>RESET_ACTIONSHEET</key>
+	<string>Reiniciar</string>
+	<key>RESPRING_ACTIONSHEET</key>
+	<string>Reiniciar Amb. Trab.</string>
+	<key>RESTORE</key>
+	<string>Restaurar</string>
+	<key>RESTORE_DEFAULT_MSG</key>
+	<string>Irá reiniciar as definições do Springtomize e reiniciar o ambiente de trabalho do iPhone.</string>
+	<key>RESTORING</key>
+	<string>A Restaurar</string>
+	<key>SAVE</key>
+	<string>Gravar</string>
+	<key>SAVE_OR_RESTORE_BTN</key>
+	<string>Gravar/Restaurar</string>
+	<key>SAVING</key>
+	<string>A Gravar</string>
+	<key>SETTINGS_FILES_TITLE</key>
+	<string>Ficheiros de Definições</string>
+	<key>SETTINGS_FILES_WARNING</key>
+	<string></string>
+	<key>SYSTEM_APPS</key>
+	<string>Apps Sistema</string>
+	<key>WARNING_MS_ADDONS_MSG</key>
+	<string>Pode activar ou desactivar qualquer addon do MobileSubstrate. Terá de reiniciar o ambiente de trabalho para activar quaisquer modificações.
+
+Tenha em atenção que apenas deverá alterar estas definições se souber o que está a fazer, pois poderá danificar o seu iPhone.</string>
+</dict>
+</plist>

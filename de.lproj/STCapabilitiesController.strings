@@ -1,0 +1,15 @@
+"Custom Capabilities" = "Funktionen anpassen";
+"You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled." = "Funktionen anpassen muss aktiviert sein für jegliche Änderung.";
+"Homescreen WP" = "Hintergrundbild";
+"VoiceControl" = "Sprachsteuerung";
+"Multitasking" = "Multitasking";
+"HDR" = "HDR";
+"Panorama" = "Panorama";
+"Front Camera" = "Frontkamera";
+"SMS" = "SMS";
+"Telephony" = "Telefon";
+"Contacts" = "Kontakte";
+"Battery Percentage" = "Batterieanzeige in %";
+"GPS" = "GPS";
+"AppStore" = "App Store";
+"Magnetometer" = "Magnetometer";

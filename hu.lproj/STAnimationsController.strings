@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Animations</key>
+	<string>Animációk</string>
+	<key>App to App transition</key>
+	<string>Alkalmazások közti váltás</string>
+	<key>Black</key>
+	<string>Fekete</string>
+	<key>Blue</key>
+	<string>Kék</string>
+	<key>Brown</key>
+	<string>Barna</string>
+	<key>Color</key>
+	<string>Szín</string>
+	<key>Custom Duration</key>
+	<string>Egyéni időtartam</string>
+	<key>Cyan</key>
+	<string>Cián</string>
+	<key>Gray</key>
+	<string>Szürke</string>
+	<key>Green</key>
+	<string>Zöld</string>
+	<key>Lock Animation</key>
+	<string>Zárolás animálása</string>
+	<key>Magenta</key>
+	<string>Magenta</string>
+	<key>Old Tv Animation</key>
+	<string>Régi TV animáció</string>
+	<key>Orange</key>
+	<string>Narancs</string>
+	<key>Play Sound</key>
+	<string>Hangeffekt</string>
+	<key>Purple</key>
+	<string>Lila</string>
+	<key>Random</key>
+	<string>Véletlen</string>
+	<key>Red</key>
+	<string>Piros</string>
+	<key>Screenshot Flash</key>
+	<string>Képernyőkép villanása</string>
+	<key>Slow Motion</key>
+	<string>Lassítás</string>
+	<key>Slow Motion Mode</key>
+	<string>Lassított mód</string>
+	<key>Transparent</key>
+	<string>Átlátszó</string>
+	<key>Use Custom Color</key>
+	<string>Egyéni szín használata</string>
+	<key>Vertical Animation</key>
+	<string>Függőleges animáció</string>
+	<key>White</key>
+	<string>Fehér</string>
+	<key>Yellow</key>
+	<string>Sárga</string>
+</dict>
+</plist>

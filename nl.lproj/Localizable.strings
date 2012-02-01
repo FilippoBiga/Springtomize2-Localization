@@ -1,0 +1,37 @@
+/* 
+ *  Created by Filippo Bigarella on 30/12/11.
+ * 
+ */
+
+RELOAD_BTN = "Herladen";
+CHOOSE_ACTION_ACTIONSHEET = "Kies aktie";
+CANCEL_ACTIONSHEET = "Annuleer";
+RESPRING_ACTIONSHEET = "Respring";
+RELOAD_SETTINGS_ACTIONSHET = "Herlaad instellingen";
+
+SYSTEM_APPS = "Systeem Apps";
+APPSTORE_APPS = "AppStore Apps";
+
+
+CREDITS = "Credits";
+DISMISS_CREDITS = "Sluit"; 
+
+REPORT_CRASH_MSG = "Indien u een crash meldt, gelieve dan Crash Reporter vanuit Cydia te installeren.";
+DISMISS_ALERT = "Sluit";
+INSTALL_ALERT = "Installeer";
+RESTORE_DEFAULT_MSG = "Dit zal de standaard instellingen van Springtomize herstellen en een Respring uitvoeren.";
+RESET_ACTIONSHEET = "Reset";
+
+
+LIBRARIES_TITLE = "Bibliotheken";
+WARNING_MS_ADDONS_MSG = "U kan elke MobileSubstrate addon in- of uitschakelen. Een Respring is vereist om een wijziging effectief door te voeren.\n\
+Opgelet! Enkel wijzigingen doorvoeren met kennis van zaken of u riskeert het toestel te onbruikbaar te maken.";
+
+SETTINGS_FILES_TITLE = "Instellingsbestanden";
+SETTINGS_FILES_WARNING = "";
+
+SAVE_OR_RESTORE_BTN = "Bewaar/Herstel";
+SAVE = "Bewaar";
+RESTORE = "Herstel";
+SAVING = "Aan het opslaan";
+RESTORING = "Aan het herstellen";

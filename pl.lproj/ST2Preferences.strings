@@ -1,0 +1,17 @@
+{
+    Animations = Animacje;
+    "App Switcher" = "Pasek wielozadaniowo\U015bci";
+    Capabilities = "Funkcje i elementy";
+    Dock = Dock;
+    Enabled = "W\U0142\U0105cz";
+    Folders = Foldery;
+    Icons = Ikony;
+    LockScreen = "Ekran blokady";
+    More = "Wi\U0119cej";
+    "Notification Center" = "Centrum powiadomie\U0144";
+    Pages = Strony;
+    Settings = Ustawienia;
+    "Status Bar" = "Pasek statusu";
+    Theming = Motywy;
+    "Time Machine" = "Kopie zapasowe";
+}

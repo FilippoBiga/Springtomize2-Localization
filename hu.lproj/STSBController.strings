@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Automatic Backup</key>
+	<string>Automatikus mentés</string>
+	<key>Backup Options</key>
+	<string>Biztonsági mentés opciók</string>
+	<key>Enable</key>
+	<string>Engedélyezés</string>
+	<key>Icon State</key>
+	<string>Ikonok elrendezése</string>
+	<key>On-the-fly Reload</key>
+	<string>On-the-fly visszaállítás</string>
+	<key>Restore Options</key>
+	<string>Visszaállitás opciók</string>
+	<key>Springtomize Settings</key>
+	<string>Springtomize beállítások</string>
+	<key>Wallpaper</key>
+	<string>Háttérkép</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+{
+    "Automatic Backup" = "Automatyczna kopia";
+    "Backup Options" = "Ustawienia kopii";
+    Enable = "W\U0142\U0105cz";
+    "Icon State" = "Kolejno\U015b\U0107 ikon";
+    Layout = "Wygl\U0105d";
+    "On-the-fly Reload" = "Prze\U0142aduj \"w locie\"";
+    "Restore Options" = "Ustawienia przywracania";
+    "Springtomize Settings" = "Ustawienia Springtomize";
+    Wallpaper = Tapeta;
+    "While this option is enabled, Springtomize will automatically perform a backup, once a day." = "Je\U015bli ta funkcja jest w\U0142\U0105czona, Springtomize automatycznie wykona kopi\U0119\U00a0zapasow\U0105 ka\U017cdego dnia.\n\n";
+}

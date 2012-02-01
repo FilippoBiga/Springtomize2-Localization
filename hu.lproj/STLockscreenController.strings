@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Always Charging</key>
+	<string>Mindig akku mutatása</string>
+	<key>Always Show Camera</key>
+	<string>Kamera gomb mutatása</string>
+	<key>Always Show WP</key>
+	<string>Háttérkép mutatása</string>
+	<key>Custom Label</key>
+	<string>Egyéni címke</string>
+	<key>Custom Label Mode</key>
+	<string>Egyéni címke mód</string>
+	<key>Custom String</key>
+	<string>Egyéni szöveg</string>
+	<key>Delay Dimming</key>
+	<string>Elalvás várakoztatása</string>
+	<key>Disable Artwork</key>
+	<string>Borítók tiltása</string>
+	<key>Disable Camera Button</key>
+	<string>Kamera gomb tiltása</string>
+	<key>Display Seconds</key>
+	<string>Másodpercek kijelzése</string>
+	<key>Enter Custom Label</key>
+	<string>Írj egy saját szöveget</string>
+	<key>Hide Knob</key>
+	<string>"Csúszó gomb" elrejtése</string>
+	<key>Hide Top Bar</key>
+	<string>Felső sáv elrejtése</string>
+	<key>Slider</key>
+	<string>Csúszka</string>
+	<key>Time</key>
+	<string>Idő</string>
+	<key>Time with AM/PM</key>
+	<string>Idő AM/PM formában</string>
+</dict>
+</plist>

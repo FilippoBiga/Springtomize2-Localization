@@ -1,0 +1,37 @@
+/* 
+ *  Created by Filippo Bigarella on 30/12/11.
+ * 
+ */
+
+RELOAD_BTN "‫" "إعادة تحمي‬ل 
+CHOOSE_ACTION_ACTIONSHEET = "إختيار الإجراء";
+CANCEL_ACTIONSHEET = "إلغاء";
+RESPRING_ACTIONSHEET = "إعادة تشغيل السبريغبورد";
+RELOAD_SETTINGS_ACTIONSHET = "إعادة تحميل الإعدادات";
+
+SYSTEM_APPS = "برامج الجهاز";
+APPSTORE_APPS = "برامج الأب ستور";
+
+
+CREDITS = "ائتمانات";
+DISMISS_CREDITS = "صرف"; 
+
+REPORT_CRASH_MSG = ".إذا  أردت التبليغ عن أي مشكلة، الرجاء تثبيت ‫"‬كراش ريبورتر‫"‬ من سيديا"
+DISMISS_ALERT = "صرف";
+INSTALL_ALERT = "تثبيت";
+RESTORE_DEFAULT_MSG = " إستعادة الإعدادات الأساسية لسبرينغتوميز و إعادة تشغيل السبرينغبورد‫.‬";
+RESET_ACTIONSHEET = "إعادة تعيين";
+
+
+LIBRARIES_TITLE = "ليبراريز";
+WARNING_MS_ADDONS_MSG = ، يمكنك تمكين أو تعطيل أي نطاقات إضافية لموبيل سبستراة‫.‬  لتطبيق أي تعديل سيتم إعادة تشغيل";
+ السبريغبورد‫.‬" \n\ ان كنت لا تدرك ما تفعل،  لا تشغل هذه الإحتمالات لأنه  قد يؤدي إلى تلف الجهاز." 
+
+SETTINGS_FILES_TITLE = "ملفات الإعدادات";
+SETTINGS_FILES_WARNING = "ملفات الإعدادات";
+
+SAVE_OR_RESTORE_BTN = "حفظ‫/‬استعادة";
+SAVE = "حفظ";
+RESTORE = "استعادة";
+SAVING = "جاري الحفظ";
+RESTORING = "إعادة الإستعادة";

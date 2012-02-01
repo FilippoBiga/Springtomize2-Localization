@@ -1,0 +1,17 @@
+﻿"Capabilities" = "Capacidades";
+"Custom Capabilities" = "Capacidades personal.";
+"You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled." = "Necesita activar las capacidades personalizadas para poder aplicar cualquier modificación. Active las capacidades que quiera usar.";
+"Homescreen WP" = "Fondo en pantalla inicio";
+"VoiceControl" = "Control por voz";
+"Multitasking" = "Multitarea";
+"HDR" = "HDR";
+"Panorama" = "Panorama";
+"Front Camera" = "Cámara frontal";
+"SMS" = "SMS";
+"Telephony" = "Telefonía";
+"Contacts" = "Contactos";
+"Battery Percentage" = "Porcentaje de batería";
+"GPS" = "GPS";
+"AppStore" = "App Store";
+"Magnetometer" = "Magnetómetro";
+

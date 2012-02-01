@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Custom Lines</key>
+	<string>Definir Nº Linhas</string>
+	<key>Eight</key>
+	<string>Oito</string>
+	<key>Five</key>
+	<string>Cinco</string>
+	<key>Four</key>
+	<string>Quatro</string>
+	<key>Instant Clear</key>
+	<string>Apagar Logo</string>
+	<key>Max Lines</key>
+	<string>Máximo Linhas</string>
+	<key>Nine</key>
+	<string>Nove</string>
+	<key>One</key>
+	<string>Uma</string>
+	<key>Seven</key>
+	<string>Sete</string>
+	<key>Six</key>
+	<string>Seis</string>
+	<key>Ten</key>
+	<string>Dez</string>
+	<key>Three</key>
+	<string>Três</string>
+	<key>Two</key>
+	<string>Duas</string>
+</dict>
+</plist>

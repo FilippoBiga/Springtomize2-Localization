@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Animations</key>
+	<string>Animações</string>
+	<key>App to App transition</key>
+	<string>Transitar entre Apps</string>
+	<key>Black</key>
+	<string>Preto</string>
+	<key>Blue</key>
+	<string>Azul</string>
+	<key>Brown</key>
+	<string>Castanho</string>
+	<key>Color</key>
+	<string>Cor</string>
+	<key>Custom Duration</key>
+	<string>Definir Duração</string>
+	<key>Cyan</key>
+	<string>Cinzento</string>
+	<key>Gray</key>
+	<string>Cinza</string>
+	<key>Green</key>
+	<string>Verde</string>
+	<key>Lock Animation</key>
+	<string>Animação quando Bloqueado</string>
+	<key>Magenta</key>
+	<string>Magenta</string>
+	<key>Old Tv Animation</key>
+	<string>Efeito TV antiga</string>
+	<key>Orange</key>
+	<string>Laranja</string>
+	<key>Play Sound</key>
+	<string>Som</string>
+	<key>Purple</key>
+	<string>Roxo</string>
+	<key>Random</key>
+	<string>Aleatório</string>
+	<key>Red</key>
+	<string>Vermelho</string>
+	<key>Screenshot Flash</key>
+	<string>Quando Imprimir Ecrã</string>
+	<key>Slow Motion</key>
+	<string>Câmera Lenta</string>
+	<key>Slow Motion Mode</key>
+	<string>Modo Câmera Lenta</string>
+	<key>Transparent</key>
+	<string>Transparente</string>
+	<key>Use Custom Color</key>
+	<string>Definir a Cor</string>
+	<key>Vertical Animation</key>
+	<string>Animação Vertical</string>
+	<key>White</key>
+	<string>Branco</string>
+	<key>Yellow</key>
+	<string>Amarelo</string>
+</dict>
+</plist>

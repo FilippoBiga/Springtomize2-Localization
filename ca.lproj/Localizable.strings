@@ -1,0 +1,37 @@
+/* 
+ *  Created by Filippo Bigarella on 30/12/11.
+ * 
+ */
+
+RELOAD_BTN = "Recarrega";
+CHOOSE_ACTION_ACTIONSHEET = "Escull Accio";
+CANCEL_ACTIONSHEET = "Cancel·lar";
+RESPRING_ACTIONSHEET = "Respring";
+RELOAD_SETTINGS_ACTIONSHET = "Recarrega Configuracio";
+
+SYSTEM_APPS = "Apps del Sistema";
+APPSTORE_APPS = "Apps de l'AppStore";
+
+
+CREDITS = "Credits";
+DISMISS_CREDITS = "Desfes"; 
+
+REPORT_CRASH_MSG = "Si vols reportar un problema, siusplau instal·la Crash Reporter des de Cydia.";
+DISMISS_ALERT = "Desfes";
+INSTALL_ALERT = "Instal·lar";
+RESTORE_DEFAULT_MSG = "Aixo restaurara la configuracio de serie de Springtomize i fer respring a l'aparell.";
+RESET_ACTIONSHEET = "Resetejar";
+
+
+LIBRARIES_TITLE = "Llibraries";
+WARNING_MS_ADDONS_MSG = "Pots activar/desactivar els addon de MobileSubstrate. Necessitaras fer respring per aplicar les modificacions.\n\
+Modifica aquestes opcions nomes si saps que estas fent, or podries danyar l'aparell.";
+
+SETTINGS_FILES_TITLE = "Fitxes d'Opcions";
+SETTINGS_FILES_WARNING = "";
+
+SAVE_OR_RESTORE_BTN = "Guardar/Restaurar";
+SAVE = "Guardar";
+RESTORE = "Restaurar";
+SAVING = "Guardant";
+RESTORING = "Restaurant";

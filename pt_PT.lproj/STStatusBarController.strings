@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Airplane</key>
+	<string>Modo Avião</string>
+	<key>Alarm</key>
+	<string>Alarme</string>
+	<key>Battery</key>
+	<string>Bateria</string>
+	<key>Battery Percent</key>
+	<string>Percentagem Bateria</string>
+	<key>Bluetooth</key>
+	<string>Bluetooth</string>
+	<key>Bluetooth Battery</key>
+	<string>Bateria Bluetooth</string>
+	<key>Call Forwarding</key>
+	<string>Reencaminhar Chamada</string>
+	<key>Carrier Name</key>
+	<string>Nome Operador</string>
+	<key>Custom Carrier</key>
+	<string>Operador</string>
+	<key>Custom Time</key>
+	<string>Tempo</string>
+	<key>Custom Time Mode</key>
+	<string>Modo Tempo Definido</string>
+	<key>Data Network</key>
+	<string>Rede de Dados</string>
+	<key>Hide Status Bar Items</key>
+	<string>Esconder Itens da Barra Estado</string>
+	<key>Location</key>
+	<string>Localização</string>
+	<key>Play</key>
+	<string>Reproduzir</string>
+	<key>Rotation</key>
+	<string>Rotação</string>
+	<key>Signal Strength</key>
+	<string>Força Sinal</string>
+	<key>Sync Indicator</key>
+	<string>Indicador Sincronização</string>
+	<key>Time</key>
+	<string>Tempo</string>
+	<key>Use Custom Carrier</key>
+	<string>Definir Nome Operador</string>
+	<key>Use Custom Time</key>
+	<string>Definir Tempo</string>
+	<key>VPN</key>
+	<string>VPN</string>
+</dict>
+</plist>

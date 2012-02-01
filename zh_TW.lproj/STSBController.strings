@@ -1,0 +1,13 @@
+"Layout" = "版面";
+"Backup Options" = "備份選項";
+"Icon State" = "圖示排列狀態";
+"Wallpaper" = "桌面背景";
+"Springtomize Settings" = "Springtomize 設定";
+"Restore Options" = "還原選項";
+"Icon State" = "圖示排列狀態";
+"Wallpaper" = "桌面背景";
+"Springtomize Settings" = "Springtomize 設定";
+"On-the-fly Reload" = "On-the-fly 重新載入";
+"Automatic Backup" = "自動備份";
+"Enable" = "啟用";
+"While this option is enabled, Springtomize will automatically perform a backup, once a day." = "當這個選項啟用時，Springtomize 每天會自動執行一次備份。";

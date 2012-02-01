@@ -1,0 +1,37 @@
+/* 
+ *  Created by Filippo Bigarella on 30/12/11.
+ * 
+ */
+
+RELOAD_BTN = "רענון";
+CHOOSE_ACTION_ACTIONSHEET = "בחירת פעולה";
+CANCEL_ACTIONSHEET = "ביטול";
+RESPRING_ACTIONSHEET = "רספרינג";
+RELOAD_SETTINGS_ACTIONSHET = "רענון הגדרות";
+
+SYSTEM_APPS = "אפליקציות מערכת";
+APPSTORE_APPS = "אפליקציות אפסטור";
+
+
+CREDITS = "קרדיט";
+DISMISS_CREDITS = "סגירה"; 
+
+REPORT_CRASH_MSG = "אם הינך שולח/ת קריסה נא להתקין את Crash Reporter מ-Cydia";
+DISMISS_ALERT = "סגירה";
+INSTALL_ALERT = "התקנה";
+RESTORE_DEFAULT_MSG = "פעולה זו תחזיר את Springtomize להגדרותיו הראשוניות ותבצע רספרינג למכשיר";
+RESET_ACTIONSHEET = "איפוס";
+
+
+LIBRARIES_TITLE = "ספריות";
+WARNING_MS_ADDONS_MSG = "ניתן להפעיל או לכבות כל תוסף MobileSubstrate. יהיה צורך ברספרינג על מנת להפעיל כל שינוי. \n\
+נא להיזהר מלעשות דברים שאינך יודע/ת עליהם, או שעלול להיגרם נזק למכשיר.";
+
+SETTINGS_FILES_TITLE = "קבצי הגדרות";
+SETTINGS_FILES_WARNING = "כאן מוצגים כל הקבצי הגדרות שנשמרו על מכשירך, ששייכים לטוויקים לאפליקציות או לאפליקציות פריצה. החלק על קטגוריה על מנת למחוק את הקובץ. זה יכול להיות שימושי במידה ויש בעיות.";
+
+SAVE_OR_RESTORE_BTN = "שמירה/שחזור";
+SAVE = "שמירה";
+RESTORE = "שחזור";
+SAVING = "שומר";
+RESTORING = "משחזר";

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Battery</key>
+	<string>Akku</string>
+	<key>Black</key>
+	<string>Fekete</string>
+	<key>Blue</key>
+	<string>Kék</string>
+	<key>Brown</key>
+	<string>Barna</string>
+	<key>Choose Battery</key>
+	<string>Akku választása</string>
+	<key>Choose Dock</key>
+	<string>Dokk választása</string>
+	<key>Custom Battery</key>
+	<string>Egyéni akku</string>
+	<key>Custom Color</key>
+	<string>Egyéni szín</string>
+	<key>Custom Dock</key>
+	<string>Egyéni dokk</string>
+	<key>Custom Font</key>
+	<string>Egyéni betűtípus</string>
+	<key>Custom Opacity</key>
+	<string>Egyéni átlátszóság</string>
+	<key>Custom Size</key>
+	<string>Egyéni méret</string>
+	<key>Cyan</key>
+	<string>Cián</string>
+	<key>Dock</key>
+	<string>Dokk</string>
+	<key>Gray</key>
+	<string>Szürke</string>
+	<key>Green</key>
+	<string>Zöld</string>
+	<key>Icon Labels</key>
+	<string>Ikon címkék</string>
+	<key>Icons</key>
+	<string>Ikonok</string>
+	<key>Image Effect</key>
+	<string>Kép effekt</string>
+	<key>Magenta</key>
+	<string>Magenta</string>
+	<key>Orange</key>
+	<string>Narancs</string>
+	<key>Purple</key>
+	<string>Lila</string>
+	<key>Random</key>
+	<string>Véletlen</string>
+	<key>Red</key>
+	<string>Piros</string>
+	<key>Select Color</key>
+	<string>Szín választása</string>
+	<key>Select Font</key>
+	<string>Betűtípus választása</string>
+	<key>Transparent</key>
+	<string>Átlátszó</string>
+	<key>White</key>
+	<string>Fehér</string>
+	<key>Yellow</key>
+	<string>Sárga</string>
+</dict>
+</plist>
