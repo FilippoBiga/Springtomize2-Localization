@@ -4,9 +4,9 @@
 "Battery" = "סוללה";
 "Custom Battery" = "סוללה מותאמת אישית";
 "Choose Battery" = "בחירת סוללה";
-"Icon Labels" = "טקסט אייקונים";
-"Custom Font" = "פונט מותאם אישית";
-"Select Font" = "בחירת פונט";
+"Icon Labels" = "תוויות אייקונים";
+"Custom Font" = "גופן מותאם אישית";
+"Select Font" = "בחירת גופן";
 "Custom Size" = "גודל מותאם אישית";
 "Custom Color" = "צבע מותאם אישית";
 "Select Color" = "בחירת צבע";
@@ -27,6 +27,6 @@
 "Brown" = "חום";
 "Transparent" = "שקוף";
 "Random" = "רדנומלי";
-"Grayscale" = "";
-"Sepia" = "";
-"None" = "";
+"Grayscale" = "שחור לבן";
+"Sepia" = "חום לבן";
+"None" = "ללא";
