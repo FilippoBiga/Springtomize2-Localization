@@ -10,10 +10,10 @@ RESPRING_ACTIONSHEET = "Respring";
 RELOAD_SETTINGS_ACTIONSHET = "Recharger les réglages";
 
 SYSTEM_APPS = "Applications Système";
-APPSTORE_APPS = "Application AppStore";
+APPSTORE_APPS = "Applications AppStore";
 
 
-CREDITS = "Credits";
+CREDITS = "Crédits";
 DISMISS_CREDITS = "Fermer"; 
 
 REPORT_CRASH_MSG = "Si vous voulez reporter un crash, installez Crash Reporter sur Cydia";
@@ -23,15 +23,16 @@ RESTORE_DEFAULT_MSG = "Cette option restaurera les réglages d'origine de Spring
 RESET_ACTIONSHEET = "Réinitialiser";
 
 
-LIBRARIES_TITLE = "Libraries";
+LIBRARIES_TITLE = "Librairies";
 WARNING_MS_ADDONS_MSG = "Vous pouvez activer ou désactiver l'addon Mobile Substrate. Vous devrez effectuer un respring pour activer les modifications.\n\
 Soyez conscient de ce que vous faites lors de la modification des options, pour risqueriez d'endommager votre appareil.";
 
 SETTINGS_FILES_TITLE = "Fichers réglages";
 SETTINGS_FILES_WARNING = "";
 
-SAVE_OR_RESTORE_BTN = "Sauvegarder/Restaurer";
-SAVE = "Sauvegarder";
+SAVE_OR_RESTORE_BTN = "Sauver/Restaurer";
+SAVE = "Sauver";
 RESTORE = "Restaurer";
 SAVING = "Sauvegarde...";
 RESTORING = "Restauration...";
+HIDE_ICONS = "Cacher icônes"
