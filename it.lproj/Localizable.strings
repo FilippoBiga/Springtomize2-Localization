@@ -34,3 +34,5 @@ SAVE = "Salva";
 RESTORE = "Ripristina";
 SAVING = "Salvataggio";
 RESTORING = "Ripristino";
+
+DAEMON_NOT_RUNNING_MSG = "Il daemon di Springtomize non è in esecuzione: ciò significa che si è verificato un problema installando Springtomize. Prova a reinstallare Springtomize e a riavviare il tuo dispositivo. La maggior parte delle volte questo tipo di errore è causato da un problema con launchd del jailbreak untethered di iOS 5.0.1";
