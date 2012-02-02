@@ -1,5 +1,5 @@
 "Display Seconds" = "תצוגת שניות";
-"Always Charging" = "תמיד מוטען";
+"Always Charging" = "תמיד מטעין";
 "Always Show WP" = "תמיד מציג רקע";
 "Disable Camera Button" = "ביטול כפתור המצלמה";
 "Always Show Camera" = "תצוגה תמידית של המצלמה";
@@ -7,6 +7,6 @@
 "Disable Artwork" = "ביטול תמונת אלבום";
 "Delay Dimming" = "עיקוב הרדמה";
 "Slider" = "סליידר";
-"Hide Knob" = "החבאת החץ";
+"Hide Knob" = "הסתרת החץ";
 "Custom Label" = "טקסט מותאם אישית";
 "Custom Label Mode" = "מצב טקסט מותאם אישית";
