@@ -1,4 +1,4 @@
-"CoverFlow Effect" = "Coverflow Effekt";
+﻿"Coverflow Effect" = "Coverflow Effekt";
 "Hide Dock" = "Dock vestecken";
 "Hide Labels" = "Texte verstecken";
 "Hide Reflection" = "Spiegelung aus";
@@ -18,3 +18,5 @@
 "Twenty" = "Zwanzig";
 "Twenty five" = "Fünfundzwanzig";
 "Thirty" = "Dreissig";
+"Enable" = "Aktivieren";
+"Adjust" = "Einstellen";
