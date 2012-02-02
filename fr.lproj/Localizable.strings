@@ -7,32 +7,31 @@ RELOAD_BTN = "Recharger";
 CHOOSE_ACTION_ACTIONSHEET = "Choisir une action";
 CANCEL_ACTIONSHEET = "Annuler";
 RESPRING_ACTIONSHEET = "Respring";
-RELOAD_SETTINGS_ACTIONSHET = "Recharger les réglages";
+RELOAD_SETTINGS_ACTIONSHET = "Recharger les rÃ©glages";
 
-SYSTEM_APPS = "Applications Système";
+SYSTEM_APPS = "Applications Systeme";
 APPSTORE_APPS = "Applications AppStore";
 
 
-CREDITS = "Crédits";
+CREDITS = "CrÃ©dits";
 DISMISS_CREDITS = "Fermer";
 
 REPORT_CRASH_MSG = "Si vous voulez signaler un crash, installez Crash Reporter sur Cydia";
 DISMISS_ALERT = "Fermer";
 INSTALL_ALERT = "Installer";
-RESTORE_DEFAULT_MSG = "Cette option restaurera les réglages d'origine de Springtomize et respringera votre iDevice";
-RESET_ACTIONSHEET = "Réinitialiser";
+RESTORE_DEFAULT_MSG = "Cette option restaurera les rÃ©glages d'origine de Springtomize et respringera votre iDevice";
+RESET_ACTIONSHEET = "RÃ©initialiser";
 
 
 LIBRARIES_TITLE = "Librairies";
-WARNING_MS_ADDONS_MSG = "Vous pouvez activer ou désactiver l'addon Mobile Substrate. Vous devrez effectuer un respring pour activer les modifications.\n\
+WARNING_MS_ADDONS_MSG = "Vous pouvez activer ou dÃ©sactiver l'addon Mobile Substrate. Vous devrez effectuer un respring pour activer les modifications.\n\
 Soyez conscient de ce que vous faites lors de la modification de ces options, vous risqueriez d'endommager votre appareil.";
 
-SETTINGS_FILES_TITLE = "Fichers réglages";
+SETTINGS_FILES_TITLE = "Fichers rÃ©glages";
 SETTINGS_FILES_WARNING = "";
 
 SAVE_OR_RESTORE_BTN = "Sauver/Restaurer";
 SAVE = "Sauvegarder";
 RESTORE = "Restaurer";
 SAVING = "Sauvegarde...";
-RESTORING = "Restauration...";
-HIDE_ICONS = "Cacher icônes";
+RESTORING = "Restauration...";HIDE_ICONS = "Cacher icones";
