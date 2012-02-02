@@ -30,3 +30,6 @@
 "Grayscale" = "שחור לבן";
 "Sepia" = "חום לבן";
 "None" = "ללא";
+"Theming" = "עיצוב";
+"LockScreen" = "מסך הנעילה";
+"Clock Color" = "צבע השעון";
