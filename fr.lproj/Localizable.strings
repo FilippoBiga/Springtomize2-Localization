@@ -19,13 +19,13 @@ DISMISS_CREDITS = "Fermer";
 REPORT_CRASH_MSG = "Si vous voulez reporter un crash, installez Crash Reporter sur Cydia";
 DISMISS_ALERT = "Fermer";
 INSTALL_ALERT = "Installer";
-RESTORE_DEFAULT_MSG = "Cette option restaurera les réglages d'origine de Springtomize et respringera votre iDevice";
+RESTORE_DEFAULT_MSG = "Cette option restaurera les réglages d'origine de Springtomize.";
 RESET_ACTIONSHEET = "Réinitialiser";
 
 
 LIBRARIES_TITLE = "Librairies";
-WARNING_MS_ADDONS_MSG = "Vous pouvez activer ou désactiver l'addon Mobile Substrate. Vous devrez effectuer un respring pour activer les modifications.\n\
-Soyez conscient de ce que vous faites lors de la modification des options, pour risqueriez d'endommager votre appareil.";
+WARNING_MS_ADDONS_MSG = "Vous pouvez activer ou désactiver un addon Mobile Substrate. Vous devrez effectuer un respring pour appliquer les modifications.\n\
+Soyez sûrs de ce que voûtes faites lorsque vous modifiez des options, vous risqueriez d'endommager votre appareil.";
 
 SETTINGS_FILES_TITLE = "Fichers réglages";
 SETTINGS_FILES_WARNING = "";
