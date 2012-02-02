@@ -1,9 +1,9 @@
 "Hide Labels" = "Cacher les labels";
 "Lock Moving" = "Vérouiller déplacement";
-"Disable Jittering" = "Pas de mouvement";
-"Disable Uninstalling" = "Pas de désinstallation";
-"Disable All Badges" = "Pas de badges";
-"2 Tap Clear Badge" = "2 tap supp badges";
+"Disable Jittering" = "Désactiver mouvement icônes";
+"Disable Uninstalling" = "Désactiver désinstallation";
+"Disable All Badges" = "Désactiver badges";
+"2 Tap Clear Badge" = "2 tap supprime les badges";
 "Resizing" = "Redimensionner";
 "Resize Icons" = "Icônes";
 "Resize Dock Icons" = "Icônes du Dock";
