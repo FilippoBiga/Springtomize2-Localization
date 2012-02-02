@@ -1,5 +1,5 @@
 "Theming" = "Themes";
-"Custom Font" = "Police personnalisÃ©e";
+"Custom Font" = "Police personnalisee";
 "Select Font" = "Choisir une police";
 "Custom Size" = "Modifier la taille";
 "Custom Color" = "Modifier la couleur";
@@ -15,7 +15,7 @@
 "Blue" = "Bleu";
 "Cyan" = "Bleu Cyan";
 "Yellow" = "Jaune";
-"Random" = "AlÃ©atoire";
+"Random" = "Aleatoire";
 "Fonts" = "Polices";
 "Icons" = "Icones";
 "Icon Labels" = "Titre des icones";
@@ -24,7 +24,7 @@
 "Battery" = "Batterie";
 "Custom Battery" = "Modifier la batterie";
 "Choose Battery" = "Choisir batterie :";
-"Custom Opacity" = "Modifier l'opacitÃ©";
+"Custom Opacity" = "Modifier l'opacite";
 "Image Effect" = "Effet d'image";
 "Grayscale" = "Niveaux de Gris";
 "None" = "Aucun";
