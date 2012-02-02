@@ -1,9 +1,9 @@
-"Custom Carrier" = "מפעיל מותאם אישית";
-"Use Custom Carrier" = "שימוש במפעיל מותאם אישית";
+"Custom Carrier" = "שם מפעיל מותאם אישית";
+"Use Custom Carrier" = "שימוש בשם מפעיל מותאם אישית";
 "Custom Time" = "שעה מותאמת אישית";
 "Use Custom Time" = "שימוש בשעה מותאמת אישית";
 "Custom Time Mode" = "מצב שעה מותאמת אישית";
-"Hide Status Bar Items" = "החבאת פריטים בסטטוס-בר";
+"Hide Status Bar Items" = "הסתרת פריטים בשורת המצב";
 "Alarm" = "התראה";
 "Airplane" = "מצב טיסה";
 "Battery" = "סוללה";
