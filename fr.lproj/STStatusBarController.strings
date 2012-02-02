@@ -1,7 +1,7 @@
 "Custom Carrier" = "Personnaliser Opérateur";
 "Use Custom Carrier" = "Activer";
 "Enter name" = "Entrez un nom";
-"Custom Time" = "Personnaliser Temps";
+"Custom Time" = "Temps personnalisé";
 "Use Custom Time" = "Activer";
 "Custom Time Mode" = "Modifier mode";
 "Free RAM" = "RAM Libre";
@@ -9,13 +9,13 @@
 "Data IP" = "Data IP";
 "WiFi Network" = "Réseau WiFi";
 "Custom String" = "Ecrivez votre texte";
-"Hide Status Bar Items" = "Cacher les icônes de la status bar";
+"Hide Status Bar Items" = "Cacher les icônes de la barre de statut";
 "Alarm" = "Alarme";
 "Airplane" = "Mode Avion";
 "Battery" = "Batterie";
 "Battery Percent" = "Pourcentage Batterie";
-"Bluetooth Battery" = "Batterie Bleutooth";
-"Bluetooth" = "Bleutooth";
+"Bluetooth Battery" = "Batterie Bluetooth";
+"Bluetooth" = "Bluetooth";
 "Call Forwarding" = "Appel Manqué";
 "Data Network" = "Réseau Data";
 "Location" = "Localisation";
@@ -23,7 +23,7 @@
 "Rotation" = "Rotation";
 "Carrier Name" = "Nom Opérateur";
 "Signal Strength" = "Force du signal";
-"Sync Indicator" = "Syncronisation";
+"Sync Indicator" = "Synchronisation";
 "Time" = "Temps";
 "VPN" = "VPN";
-"Status Bar" = "Status Bar";
+"Status Bar" = "Barre de statut";
