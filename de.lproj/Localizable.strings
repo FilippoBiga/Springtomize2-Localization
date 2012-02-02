@@ -1,4 +1,4 @@
-/* 
+﻿/* 
  *  Created by Filippo Bigarella on 30/12/11.
  * 
  */
@@ -12,7 +12,6 @@ RELOAD_SETTINGS_ACTIONSHET = "Einstellungen neu laden";
 SYSTEM_APPS = "System Apps";
 APPSTORE_APPS = "AppStore Apps";
 
-
 CREDITS = "Danksagung";
 DISMISS_CREDITS = "Schliessen"; 
 
@@ -21,7 +20,6 @@ DISMISS_ALERT = "Abbrechen";
 INSTALL_ALERT = "Installieren";
 RESTORE_DEFAULT_MSG = "Dies wird die Springtomize Standardwerte setzen und einen Respring auslösen.";
 RESET_ACTIONSHEET = "Reset";
-
 
 LIBRARIES_TITLE = "Bibliotheken";
 WARNING_MS_ADDONS_MSG = "Hier werden die MobileSubstrate Add-Ons angezeigt und können aktiviert oder deaktiviert werden. Nach jeder Änderung ist ein Respring nötig.\n\

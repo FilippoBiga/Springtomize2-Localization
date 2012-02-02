@@ -1,3 +1,4 @@
+﻿"Status Bar" = "Statuszeile";
 "Custom Carrier" = "Netzbetreiber";
 "Use Custom Carrier" = "Netzbetreiber ändern";
 "Custom Time" = "Zeit ändern";
@@ -21,7 +22,6 @@
 "Time" = "Zeit";
 "VPN" = "VPN";
 "Enter name" = "Text eingeben";
-"Custom String" = "Eigener Text eingeben";
 "Custom String" = "Eigener Text";
 "Free RAM" = "Freier Speicher";
 "WiFi IP" = "WiFi IP";

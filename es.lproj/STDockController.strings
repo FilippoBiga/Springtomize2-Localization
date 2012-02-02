@@ -1,4 +1,4 @@
-﻿"CoverFlow Effect" = "Efecto CoverFlow";
+﻿"Coverflow Effect" = "Efecto CoverFlow";
 "Hide Dock" = "Ocultar dock";
 "Hide Labels" = "Ocultar etiquetas";
 "Hide Reflection" = "Ocultar reflejo";
@@ -14,5 +14,5 @@
 "Eight" = "Ocho";
 "Nine" = "Nueve";
 "Ten" = "Diez";
-
-
+"Enable" = "Activar";
+"Adjust" = "Cambiar";
