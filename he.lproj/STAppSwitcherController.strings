@@ -1,3 +1,4 @@
+"App Switcher" = "שורת ריבוי המשימות";
 "Landscape Switcher" = "שורת ריבוי המשימות לרוחב";
 "Start Editing" = "התחלה בעריכה";
 "Disable Paging" = "ביטול עמודים";
@@ -17,3 +18,10 @@
 "Eight" = "שמונה";
 "Nine" = "תשע";
 "Ten" = "עשר";
+"Fifteen" = "חמש עשרה";
+"Twenty" = "עשרים";
+"Twenty five" = "עשרים וחמש";
+"Thirty" = "שלושים";
+"Dim Icon" = "אייקון כהה";
+"Hide from Switcher" = "הסתר משורת ריבוי המשימות";
+"None" = "ללא";

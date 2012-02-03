@@ -1,3 +1,4 @@
+"Lockscreen" = "מסך נעילה";
 "Display Seconds" = "תצוגת שניות";
 "Always Charging" = "תמיד מטעין";
 "Always Show WP" = "תמיד מציג רקע";
@@ -10,3 +11,7 @@
 "Hide Knob" = "הסתרת החץ";
 "Custom Label" = "טקסט מותאם אישית";
 "Custom Label Mode" = "מצב טקסט מותאם אישית";
+"Custom String" = "טקסט מותאם אישית";
+"Time" = "זמן";
+"Time with AM/PM" = "זמן עם AM/PM";
+"Enter Custom Label" = "הכנס טקסט מותאם אישית";
