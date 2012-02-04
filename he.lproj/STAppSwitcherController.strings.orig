@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 "App Switcher" = "שורת ריבוי המשימות";
 >>>>>>> 54282a457d5a7db93c2760b760f39b681b55a016
+=======
+"App Switcher" = "שורת ריבוי המשימות";
+>>>>>>> 6035965a6bd631de6f61d31cbf482fccbf871025
 "Landscape Switcher" = "שורת ריבוי המשימות לרוחב";
 "Start Editing" = "התחלה בעריכה";
 "Disable Paging" = "ביטול עמודים";
@@ -27,4 +31,8 @@
 "Thirty" = "שלושים";
 "Dim Icon" = "אייקון כהה";
 "Hide from Switcher" = "הסתר משורת ריבוי המשימות";
+<<<<<<< HEAD
 "None" = "ללא";
+=======
+"None" = "ללא";
+>>>>>>> 6035965a6bd631de6f61d31cbf482fccbf871025
