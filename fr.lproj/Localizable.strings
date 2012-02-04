@@ -7,32 +7,35 @@ RELOAD_BTN = "Recharger";
 CHOOSE_ACTION_ACTIONSHEET = "Choisir une action";
 CANCEL_ACTIONSHEET = "Annuler";
 RESPRING_ACTIONSHEET = "Respring";
-RELOAD_SETTINGS_ACTIONSHET = "Recharger les reglages";
+RELOAD_SETTINGS_ACTIONSHET = "Recharger les rÃ©glages";
 
-HIDE_ICONS = "Cacher icones";
-SYSTEM_APPS = "Applications Systeme";
+SYSTEM_APPS = "Applications SystÃ¨me";
 APPSTORE_APPS = "Applications AppStore";
+HIDE_ICONS = "Cacher icÃ´nes";
 
 
-CREDITS = "Credits";
-DISMISS_CREDITS = "Fermer";
+CREDITS = "CrÃ©dits";
+DISMISS_CREDITS = "Fermer"; 
 
-REPORT_CRASH_MSG = "Si vous voulez signaler un crash, installez Crash Reporter sur Cydia";
+REPORT_CRASH_MSG = "Si vous voulez reporter un crash, installez Crash Reporter sur Cydia";
 DISMISS_ALERT = "Fermer";
 INSTALL_ALERT = "Installer";
-RESTORE_DEFAULT_MSG = "Cette option restaurera les reglages d'origine de Springtomize et respringera votre iDevice";
-RESET_ACTIONSHEET = "Reinitialiser";
+RESTORE_DEFAULT_MSG = "Cette option restaurera les rÃ©glages d'origine de Springtomize.";
+RESET_ACTIONSHEET = "RÃ©initialiser";
 
 
 LIBRARIES_TITLE = "Librairies";
-WARNING_MS_ADDONS_MSG = "Vous pouvez activer ou desactiver l'addon Mobile Substrate. Vous devrez effectuer un respring pour activer les modifications.\n\
-Soyez conscient de ce que vous faites lors de la modification de ces options, vous risqueriez d'endommager votre appareil.";
+WARNING_MS_ADDONS_MSG = "Vous pouvez activer ou dÃ©sactiver un addon Mobile Substrate. Vous devrez effectuer un respring pour appliquer les modifications.\n\
+Soyez sÃ»rs de ce que voÃ»tes faites lorsque vous modifiez des options, vous risqueriez d'endommager votre appareil.";
 
-SETTINGS_FILES_TITLE = "Fichiers reglages";
+SETTINGS_FILES_TITLE = "Fichiers rÃ©glages";
 SETTINGS_FILES_WARNING = "";
 
 SAVE_OR_RESTORE_BTN = "Sauver/Restaurer";
-SAVE = "Sauvegarder";
+SAVE = "Sauver";
 RESTORE = "Restaurer";
 SAVING = "Sauvegarde...";
 RESTORING = "Restauration...";
+
+
+DAEMON_NOT_RUNNING_MSG = "Le daemon de Springtomize ne fonctionne pas: cela signifie qu'une erreur est arrivÃ©e pendant l'installation. Please try reinstalling Springtomize and rebooting your device. Most of the times this problem is related to a launchd issue with the 5.0.1 untethered jailbreak.";
