@@ -1,14 +1,14 @@
 "Folders" = "Dossiers";
-"Icons per Line" = "Icones par ligne";
-"Create in Dock" = "Creer dans le Dock";
+"Icons per Line" = "IcÃ´nes par ligne";
+"Create in Dock" = "CrÃ©er dans le Dock";
 "Auto Close" = "Fermeture automatique";
 "Hide Background" = "Cacher le fond";
-"Disable Animation" = "Cacher animation";
-"Disable Badges" = "Cacher badges";
-"Hide Preview" = "Cacher apercu";
-"Folders Closebox" = "Suppression dossiers";
-"Hide Preview" = "Cacher apercu";
-"Use Custom Number" = "Nombre personnalise";
+"Disable Animation" = "Cacher l'animation";
+"Disable Badges" = "Cacher les badges";
+"Hide Preview" = "Cacher l'aperÃ§u";
+"Folders Closebox" = "Fermeture des dossiers";
+"Hide Preview" = "Cacher l'aperÃ§u";
+"Use Custom Number" = "Nombre personnalisÃ©";
 "One" = "Un";
 "Two" = "Deux";
 "Three" = "Trois";
@@ -18,5 +18,4 @@
 "Eight" = "Huit";
 "Nine" = "Neuf";
 "Ten" = "Dix";
-"Hide Label" = "Cacher titres";
-
+"Hide Label" = "Cacher les titres";
