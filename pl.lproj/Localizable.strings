@@ -22,7 +22,4 @@
     "SETTINGS_FILES_WARNING" = "Tutaj wy\U015bwietlone s\U0105 wszystkie ustawienia przechowywane w tym urz\U0105dzeniu, nale\U017c\U0105ce do rozszerze\U0144 i aplikacji dost\U0119pnych po jailbreaku. Przesu\U0144 palcem po danym polu, aby usun\U0105\U0107 dany plik. Mo\U017ce okaza\U0107 si\U0119 to pomocne przy rozwi\U0105zywaniu problem\U00f3w.";
     "SYSTEM_APPS" = "Programy systemowe";
     "WARNING_MS_ADDONS_MSG" = "Mo\U017cesz w\U0142\U0105czy\U0107 lub wy\U0142\U0105czy\U0107 dowolne rozszerzenie oparte na MobileSubstrate. Do zatwierdzenia jakichkolwiek zmian wymagany jest tzw. \"respring\".\n\nPami\U0119taj, \U017ce powiniene\U015b korzysta\U0107 z tych opcji tylko wtedy, gdy wiesz, co robisz albo licz si\U0119 z mo\U017cliwo\U015bci\U0105 uszkodzenia oprogramowania.";
-    
-    DAEMON_NOT_RUNNING_MSG = "The Springtomize daemon is not running: this means that something wrong happened when Springtomize was installed. Please try reinstalling Springtomize and rebooting your device. Most of the times this problem is related to a launchd issue with the 5.0.1 untethered jailbreak.";
 }
-

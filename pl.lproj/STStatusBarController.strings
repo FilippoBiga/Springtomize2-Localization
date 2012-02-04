@@ -17,6 +17,7 @@
     "Free RAM" = "Wolna pami\U0119\U0107";
     "Hide Status Bar Items" = "Ukryj elementy paska statusu";
     Location = Lokalizacja;
+    Padlock = "K\U0142\U00f3dka";
     Play = Odtwarzanie;
     Rotation = Rotacja;
     "Signal Strength" = "Zasi\U0119g";

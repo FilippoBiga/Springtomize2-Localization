@@ -37,4 +37,3 @@ SAVING = "Guardando";
 RESTORING = "Restaurando";
 
 DAEMON_NOT_RUNNING_MSG = "El daemon Springtomize no está activo: esto significa que algo ha pasado cuando Springtomize fue instalado. Por favor intenta de reinstalar Springtomize y apaga y aprenda su aparato. Muchas veces este problema esta relacionada con un problema de launchd con el jailbreak untethered de 5.0.1.";
-

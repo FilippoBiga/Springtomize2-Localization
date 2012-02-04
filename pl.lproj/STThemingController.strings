@@ -5,6 +5,7 @@
     Brown = "Br\U0105zowy";
     "Choose Battery" = "Wybierz bateri\U0119";
     "Choose Dock" = "Wybierz Dock";
+    "Clock Color" = "Kolor zegara";
     "Custom Battery" = "Niestandardowa bateria";
     "Custom Color" = "Niestandardowy kolor";
     "Custom Dock" = "Niestandardowy Dock";
@@ -20,6 +21,7 @@
     "Icon Labels" = "Nazwy aplikacji";
     Icons = Ikony;
     "Image Effect" = Efekty;
+    LockScreen = "Ekran blokady";
     Magenta = Karmazynowy;
     None = Brak;
     Orange = "Pomara\U0144czowy";

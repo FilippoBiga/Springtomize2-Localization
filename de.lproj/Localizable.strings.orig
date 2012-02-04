@@ -1,4 +1,4 @@
-/* 
+﻿/* 
  *  Created by Filippo Bigarella on 30/12/11.
  * 
  */
@@ -34,4 +34,8 @@ RESTORE = "Wiederherstellen";
 SAVING = "Speichern läuft";
 RESTORING = "Wiederherstellen läuft";
 
+<<<<<<< HEAD
+DAEMON_NOT_RUNNING_MSG = "The Springtomize daemon is not running: this means that something wrong happened when Springtomize was installed. Please try reinstalling Springtomize and rebooting your device. Most of the times this problem is related to a launchd issue with the 5.0.1 untethered jailbreak.";
+=======
 DAEMON_NOT_RUNNING_MSG = "Der Springtomize Daemon läuft nicht: Dies bedeutet, dass etwas schiefgelaufen ist als Springtomize installiert wurde. Bitte noch einmal versuchen Springtomize zu installieren und dann das Gerät neu booten. Meist ist dieses Problem auf ein launchd Problem mit dem 5.0.1 untethered Jailbreak zurückzuführen.";
+>>>>>>> 54282a457d5a7db93c2760b760f39b681b55a016
