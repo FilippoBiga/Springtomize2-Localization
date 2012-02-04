@@ -1,9 +1,12 @@
-"Icons in Dock" = "Icones dans le Dock";
-"Use Custom Number" = "Nombre personnalise";
-"Hide Reflection" = "Masquer reflet";
-"Hide Labels" = "Cacher titres";
+"Icons in Dock" = "IcÃ´nes dans le Dock";
+"Use Custom Number" = "Nombre personnalisÃ©";
+"Hide Reflection" = "Masquer le reflet";
+"Hide Shadow" = "Masquer l'ombre";
+"Hide Labels" = "Cacher les titres";
 "Hide Dock" = "Cacher le Dock";
-"CoverFlow Effect" = "Effet CoverFlow";
+"Coverflow Effect" = "Effet CoverFlow";
+"Enable" = "Activer";
+"Adjust" = "Ajuster";
 "One" = "Un";
 "Two" = "Deux";
 "Three" = "Trois";
