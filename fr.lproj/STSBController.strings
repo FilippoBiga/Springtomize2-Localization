@@ -1,10 +1,10 @@
-"Backup Options" = "Options de sauvegarde";
-"Icon State" = "Etat des icones";
-"Wallpaper" = "Fond d'ecran";
-"Springtomize Settings" = "Reglages Springtomize";
+"Backup Options" = "Option de sauvegarde";
+"Icon State" = "Ã‰tat des icÃ´nes";
+"Wallpaper" = "Fond d'Ã©cran";
+"Springtomize Settings" = "RÃ©glages Springtomize";
 "Restore Options" = "Restaurer les options";
-"On-the-fly Reload" = "Rechargement rapide";
+"On-the-fly Reload" = "Rechargement simple";
 "Automatic Backup" = "Sauvegarde automatique";
 "Enable" = "Activer";
-"While this option is enabled, Springtomize will automatically perform a backup, once a day." = "Si cette option est activee, Springtomize executera automatiquement une sauvegarde une fois par jour.";
+"While this option is enabled, Springtomize will automatically perform a backup, once a day." = "Si cette option est activÃ©e, Springtomize exÃ©cutera automatiquement une sauvegarde une fois par jour.";
 "Layout" = "Disposition";
