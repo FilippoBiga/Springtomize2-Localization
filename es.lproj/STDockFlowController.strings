@@ -1,8 +1,9 @@
-﻿"Mode" = "Modo";
 "Concave" = "Cóncavo";
 "Convex" = "Convexo";
 "Convex (Outside)" = "Convexo (Fuera)";
 "Curve" = "Curva";
-"Effect" = "Efecto";
-"Perspective" = "Perspectiva";
 "Defaults" = "Estándar";
+"Dynamic Labels" = "Etiquetas dinámicas";
+"Effect" = "Efecto";
+"Mode" = "Modo";
+"Perspective" = "Perspectiva";
