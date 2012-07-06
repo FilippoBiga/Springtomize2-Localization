@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Airplane</key>
+	<string>Режим полета</string>
+	<key>Alarm</key>
+	<string>Будильник</string>
+	<key>Battery</key>
+	<string>Заряд батареи</string>
+	<key>Battery Percent</key>
+	<string>Проценты заряда</string>
+	<key>Bluetooth</key>
+	<string>Bluetooth</string>
+	<key>Bluetooth Battery</key>
+	<string>Bluetooth Battery</string>
+	<key>Call Forwarding</key>
+	<string>Переадрессация</string>
+	<key>Carrier Name</key>
+	<string>Имя оператора</string>
+	<key>Custom Carrier</key>
+	<string>Изменить имя оператора</string>
+	<key>Custom String</key>
+	<string>Текст</string>
+	<key>Custom Time</key>
+	<string>Изменить часы</string>
+	<key>Custom Time Mode</key>
+	<string>Часы</string>
+	<key>Data Network</key>
+	<string>Вид сети</string>
+	<key>Enter name</key>
+	<string>Введите текст</string>
+	<key>Hide Status Bar Items</key>
+	<string>Прятать элементы статус бара</string>
+	<key>Location</key>
+	<string>Геолокация</string>
+	<key>Padlock</key>
+	<string>Замок</string>
+	<key>Play</key>
+	<string>Плеер</string>
+	<key>Rotation</key>
+	<string>Переворот</string>
+	<key>Signal Strength</key>
+	<string>Уровень сигнала</string>
+	<key>Status Bar</key>
+	<string>Статус бар</string>
+	<key>Sync Indicator</key>
+	<string>Инд. синхронизации</string>
+	<key>Time</key>
+	<string>Часы</string>
+	<key>Use Custom Carrier</key>
+	<string>Изм. имя оператора</string>
+	<key>Use Custom Time</key>
+	<string>Изм. время</string>
+	<key>VPN</key>
+	<string>VPN</string>
+</dict>
+</plist>

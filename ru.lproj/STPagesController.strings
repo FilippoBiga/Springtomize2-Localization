@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disable Paging</key>
+	<string>Откл. страничность</string>
+	<key>Disable Spotlight</key>
+	<string>Откл. Spotlight</string>
+	<key>Hide Dots</key>
+	<string>Прятать инд. страниц</string>
+	<key>Pages</key>
+	<string>Страницы</string>
+	<key>Remove Page Limits</key>
+	<string>Убрать огр. страниц</string>
+</dict>
+</plist>

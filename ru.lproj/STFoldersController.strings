@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Auto Close</key>
+	<string>Автозакрытие</string>
+	<key>Create in Dock</key>
+	<string>Создавать в доке</string>
+	<key>Disable Animation</key>
+	<string>Откл. анимацию</string>
+	<key>Disable Badges</key>
+	<string>Откл. наклейки</string>
+	<key>Eight</key>
+	<string>8</string>
+	<key>Five</key>
+	<string>5</string>
+	<key>Folders</key>
+	<string>Папки</string>
+	<key>Folders Closebox</key>
+	<string>Кнопка закрытия</string>
+	<key>Four</key>
+	<string>4</string>
+	<key>Hide Background</key>
+	<string>Прятать фон</string>
+	<key>Hide Label</key>
+	<string>Прятать подписи</string>
+	<key>Hide Preview</key>
+	<string>Прятать предпросмотр</string>
+	<key>Icons per Line</key>
+	<string>Иконок в строке</string>
+	<key>Nine</key>
+	<string>9</string>
+	<key>One</key>
+	<string>1</string>
+	<key>Seven</key>
+	<string>7</string>
+	<key>Six</key>
+	<string>6</string>
+	<key>Ten</key>
+	<string>10</string>
+	<key>Three</key>
+	<string>3</string>
+	<key>Two</key>
+	<string>2</string>
+	<key>Use Custom Number</key>
+	<string>Изм. кол-во иконок</string>
+</dict>
+</plist>
