@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Automatic Backup</key>
+	<string>Автосохоанение</string>
+	<key>Backup Options</key>
+	<string>Опции сохранения</string>
+	<key>Enable</key>
+	<string>Включено</string>
+	<key>Icon State</key>
+	<string>Расположение иконок</string>
+	<key>Layout</key>
+	<string>Опции</string>
+	<key>On-the-fly Reload</key>
+	<string>Перезагр. настр.</string>
+	<key>Restore Options</key>
+	<string>Опции восстановления</string>
+	<key>Springtomize Settings</key>
+	<string>Настройки Springtomize</string>
+	<key>Wallpaper</key>
+	<string>Обои</string>
+	<key>While this option is enabled, Springtomize will automatically perform a backup, once a day.</key>
+	<string>При включении данной опции будет проводиться автоматическое сохранение раз в день.</string>
+</dict>
+</plist>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2 Tap Clear Badge</key>
+	<string>2 касан. убир. наклейку</string>
+	<key>5 Rows</key>
+	<string>5 строк</string>
+	<key>Choose Icons</key>
+	<string>Выбрать</string>
+	<key>Disable All Badges</key>
+	<string>Убрать все наклейки</string>
+	<key>Disable Jittering</key>
+	<string>Убрать дрожание</string>
+	<key>Disable Uninstalling</key>
+	<string>Убрать ⊗ удаления</string>
+	<key>Eight</key>
+	<string>8</string>
+	<key>Enable</key>
+	<string>Скрывать иконки</string>
+	<key>Five</key>
+	<string>5</string>
+	<key>Four</key>
+	<string>4</string>
+	<key>Hide Icons</key>
+	<string>Скрытие иконок</string>
+	<key>Hide Labels</key>
+	<string>Скрывать подписи</string>
+	<key>Hide Newsstand</key>
+	<string>Скрывать "Киоск"</string>
+	<key>Hide Springtomize</key>
+	<string>Скрывать "Springtomize"</string>
+	<key>Icons</key>
+	<string>Иконки</string>
+	<key>Icons Per Line</key>
+	<string>Иконок в строке</string>
+	<key>Lock Moving</key>
+	<string>Не двигать</string>
+	<key>Nine</key>
+	<string>9</string>
+	<key>One</key>
+	<string>1</string>
+	<key>Resize Dock Icons</key>
+	<string>Иконки дока</string>
+	<key>Resize Icons</key>
+	<string>Иконки</string>
+	<key>Resize Switcher Icons</key>
+	<string>Иконки панели многоз.</string>
+	<key>Resizing</key>
+	<string>Изменение размера</string>
+	<key>Seven</key>
+	<string>7</string>
+	<key>Six</key>
+	<string>6</string>
+	<key>Size</key>
+	<string>Размер</string>
+	<key>Ten</key>
+	<string>10</string>
+	<key>Three</key>
+	<string>3</string>
+	<key>Two</key>
+	<string>2</string>
+	<key>Use Custom Number</key>
+	<string>Изм. кол-во иконок</string>
+</dict>
+</plist>

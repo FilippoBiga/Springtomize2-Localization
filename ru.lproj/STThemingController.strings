@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Battery</key>
+	<string>Батарея</string>
+	<key>Black</key>
+	<string>Черный</string>
+	<key>Blue</key>
+	<string>Синий</string>
+	<key>Brown</key>
+	<string>Коричневый</string>
+	<key>Choose Battery</key>
+	<string>Выбрать батарею</string>
+	<key>Choose Dock</key>
+	<string>Выбрать док</string>
+	<key>Clock color</key>
+	<string>Цвет часов</string>
+	<key>Custom Battery</key>
+	<string>Изм. батарею</string>
+	<key>Custom Color</key>
+	<string>Изм. цвет</string>
+	<key>Custom Dock</key>
+	<string>Изм. док</string>
+	<key>Custom Font</key>
+	<string>Изм. шрифт</string>
+	<key>Custom Opacity</key>
+	<string>Изм. прозрачность</string>
+	<key>Custom Size</key>
+	<string>Изм. размер</string>
+	<key>Cyan</key>
+	<string>Голубой</string>
+	<key>Dock</key>
+	<string>Док</string>
+	<key>Eight</key>
+	<string>8</string>
+	<key>Five</key>
+	<string>5</string>
+	<key>Four</key>
+	<string>4</string>
+	<key>Gray</key>
+	<string>Серый</string>
+	<key>Grayscale</key>
+	<string>Градации серого</string>
+	<key>Green</key>
+	<string>Зеленый</string>
+	<key>Icon Labels</key>
+	<string>Подписи иконок</string>
+	<key>Icons</key>
+	<string>Иконки</string>
+	<key>Image Effect</key>
+	<string>Эффекты</string>
+	<key>Magneta</key>
+	<string>Сиреневый</string>
+	<key>Nine</key>
+	<string>9</string>
+	<key>None</key>
+	<string>Нет</string>
+	<key>One</key>
+	<string>1</string>
+	<key>Orange</key>
+	<string>Оранжевый</string>
+	<key>Purple</key>
+	<string>Пурпурный</string>
+	<key>Random</key>
+	<string>Случайный</string>
+	<key>Red</key>
+	<string>Красный</string>
+	<key>Select Color</key>
+	<string>Цвет</string>
+	<key>Select Font</key>
+	<string>Шрифт</string>
+	<key>Sepia</key>
+	<string>Сепия</string>
+	<key>Seven</key>
+	<string>7</string>
+	<key>Six</key>
+	<string>6</string>
+	<key>Ten</key>
+	<string>10</string>
+	<key>Theming</key>
+	<string>Графика и шрифты</string>
+	<key>Three</key>
+	<string>3</string>
+	<key>Transparent</key>
+	<string>Прозрачный</string>
+	<key>Two</key>
+	<string>2</string>
+	<key>White</key>
+	<string>Белый</string>
+	<key>Yellow</key>
+	<string>Желтый</string>
+</dict>
+</plist>

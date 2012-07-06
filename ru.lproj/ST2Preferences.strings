@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Animations</key>
+	<string>Анимация</string>
+	<key>App Switcher</key>
+	<string>Панель запущенных</string>
+	<key>Capabilities</key>
+	<string>Возможности</string>
+	<key>Dock</key>
+	<string>Док</string>
+	<key>Enabled</key>
+	<string>Включено</string>
+	<key>Folders</key>
+	<string>Папки</string>
+	<key>Icons</key>
+	<string>Иконки</string>
+	<key>LockScreen</key>
+	<string>Экран блокировки</string>
+	<key>More</key>
+	<string>Дополнительно</string>
+	<key>Notification Center</key>
+	<string>Центр уведомлений</string>
+	<key>Pages</key>
+	<string>Экран "Домой"</string>
+	<key>Settings</key>
+	<string>Настройки</string>
+	<key>Status Bar</key>
+	<string>Статус бар</string>
+	<key>Theming</key>
+	<string>Графика и шрифты</string>
+	<key>Time Machine</key>
+	<string>Машина времени</string>
+</dict>
+</plist>

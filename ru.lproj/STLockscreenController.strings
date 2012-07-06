@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Always Charging</key>
+	<string>Всегда показ. заряд.</string>
+	<key>Always Show Camera</key>
+	<string>Запуск "Камеры"</string>
+	<key>Always Show WP</key>
+	<string>Всегда показ. обои</string>
+	<key>Custom Label</key>
+	<string>Свой текст</string>
+	<key>Custom Label Mode</key>
+	<string>Надпись</string>
+	<key>Custom String</key>
+	<string>Текст</string>
+	<key>Delay Dimming</key>
+	<string>Отлож. затемнение</string>
+	<key>Disable Artwork</key>
+	<string>Не показыв. обложку</string>
+	<key>Disable Camera Button</key>
+	<string>Не показ. "Камеру"</string>
+	<key>Display Seconds</key>
+	<string>Отображать секунды</string>
+	<key>Hide Knob</key>
+	<string>Скрывать ползунок</string>
+	<key>Hide Top Bar</key>
+	<string>Скрывать бар с часами</string>
+	<key>Lockscreen</key>
+	<string>Экран блокировки</string>
+	<key>Slider</key>
+	<string>Слайдер</string>
+	<key>Time</key>
+	<string>Время</string>
+	<key>Time with AM/PM</key>
+	<string>Время с AM/PM</string>
+</dict>
+</plist>

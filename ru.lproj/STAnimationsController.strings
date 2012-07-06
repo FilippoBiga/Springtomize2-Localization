@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Animations</key>
+	<string>Анимация</string>
+	<key>App to App transition</key>
+	<string>Переход от прил. к прил.</string>
+	<key>Black</key>
+	<string>Черный</string>
+	<key>Blue</key>
+	<string>Синий</string>
+	<key>Brown</key>
+	<string>Коричневый</string>
+	<key>Color</key>
+	<string>Цвет</string>
+	<key>Custom Duration</key>
+	<string>Длительность</string>
+	<key>Cyan</key>
+	<string>Голубой</string>
+	<key>Gray</key>
+	<string>Серый</string>
+	<key>Green</key>
+	<string>Зеленый</string>
+	<key>Lock Animation</key>
+	<string>Анимация блокировки</string>
+	<key>Magneta</key>
+	<string>Сиреневый</string>
+	<key>Old Tv Animation</key>
+	<string>Аним. телевизора</string>
+	<key>Orange</key>
+	<string>Оранжевый</string>
+	<key>Play Sound</key>
+	<string>Звук</string>
+	<key>Purple</key>
+	<string>Пурпурный</string>
+	<key>Random</key>
+	<string>Случайный</string>
+	<key>Red</key>
+	<string>Красный</string>
+	<key>Screenshot Flash</key>
+	<string>Вспышка скриншота</string>
+	<key>Slow Motion</key>
+	<string>Замедление</string>
+	<key>Slow Motion Mode</key>
+	<string>Режим замедления</string>
+	<key>Transparent</key>
+	<string>Прозрачный</string>
+	<key>Use Custom Color</key>
+	<string>Использ. другой цвет</string>
+	<key>Vertical Animation</key>
+	<string>Вертик. анимация</string>
+	<key>White</key>
+	<string>Белый</string>
+	<key>Yellow</key>
+	<string>Желтый</string>
+</dict>
+</plist>

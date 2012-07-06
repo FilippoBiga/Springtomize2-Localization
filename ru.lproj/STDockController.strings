@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adjust</key>
+	<string>Настроить</string>
+	<key>Apply</key>
+	<string>Прим.</string>
+	<key>Coverflow Effect</key>
+	<string>Эффект CoverFlow</string>
+	<key>Dock</key>
+	<string>Док</string>
+	<key>Eight</key>
+	<string>8</string>
+	<key>Enable</key>
+	<string>Включено</string>
+	<key>Five</key>
+	<string>5</string>
+	<key>Four</key>
+	<string>4</string>
+	<key>Hide Dock</key>
+	<string>Прятать док</string>
+	<key>Hide Labels</key>
+	<string>Прятать подписи</string>
+	<key>Hide Reflection</key>
+	<string>Прятать отражение</string>
+	<key>Hide Shadow</key>
+	<string>Прятать тень</string>
+	<key>Icons in Dock</key>
+	<string>Иконок в доке</string>
+	<key>Nine</key>
+	<string>9</string>
+	<key>One</key>
+	<string>1</string>
+	<key>Seven</key>
+	<string>7</string>
+	<key>Six</key>
+	<string>6</string>
+	<key>Ten</key>
+	<string>10</string>
+	<key>Three</key>
+	<string>3</string>
+	<key>Two</key>
+	<string>2</string>
+	<key>Use Custom Number</key>
+	<string>Изм. кол-во иконок</string>
+</dict>
+</plist>

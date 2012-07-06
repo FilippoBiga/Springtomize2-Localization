@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App Switcher</key>
+	<string>Панель многоз.</string>
+	<key>Brightness Slider</key>
+	<string>Слайдер яркости</string>
+	<key>Custom Icons Number</key>
+	<string>Изм. кол-во иконок</string>
+	<key>Dim Icon</key>
+	<string>Затемнять</string>
+	<key>Disable Badges</key>
+	<string>Откл. наклейки</string>
+	<key>Disable Paging</key>
+	<string>Откл. страничность</string>
+	<key>Eight</key>
+	<string>8</string>
+	<key>Five</key>
+	<string>5</string>
+	<key>Four</key>
+	<string>4</string>
+	<key>Hide from Switcher</key>
+	<string>Прятать</string>
+	<key>Icons in Switcher</key>
+	<string>Иконок в Панели</string>
+	<key>Inactive Apps Handling</key>
+	<string>Упр. неактивными</string>
+	<key>Landscape Switcher</key>
+	<string>Панель в гориз. оринт.</string>
+	<key>Nine</key>
+	<string>9</string>
+	<key>None</key>
+	<string>Нет</string>
+	<key>One</key>
+	<string>1</string>
+	<key>Seven</key>
+	<string>7</string>
+	<key>Six</key>
+	<string>6</string>
+	<key>Start Editing</key>
+	<string>Режим редактирования</string>
+	<key>Start with iPod</key>
+	<string>Начинать с управл. iPod</string>
+	<key>Ten</key>
+	<string>10</string>
+	<key>Three</key>
+	<string>3</string>
+	<key>Two</key>
+	<string>2</string>
+</dict>
+</plist>
