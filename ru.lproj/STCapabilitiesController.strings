@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppStore</key>
+	<string>AppStore</string>
+	<key>Battery Percentage</key>
+	<string>Батарея в процентах</string>
+	<key>Capabilities</key>
+	<string>Возможности</string>
+	<key>Contacts</key>
+	<string>Контакты</string>
+	<key>Custom Capabilities</key>
+	<string>Свой список возможн.</string>
+	<key>Front Camera</key>
+	<string>Фронтальная камера</string>
+	<key>GPS</key>
+	<string>GPS</string>
+	<key>HDR</key>
+	<string>HDR</string>
+	<key>Homescreen WP</key>
+	<string>Обои</string>
+	<key>Magnetometer</key>
+	<string>Магнитометр</string>
+	<key>Multitasking</key>
+	<string>Многозадачность</string>
+	<key>Panorama</key>
+	<string>Панорамн. съемка</string>
+	<key>SMS</key>
+	<string>СМС</string>
+	<key>Telephony</key>
+	<string>Телефон</string>
+	<key>VoiceControl</key>
+	<string>Упр. голосом</string>
+	<key>You need to enable Custom Capabilities in order to apply any modification. Switch on the capabilities you want to keep enabled.</key>
+	<string>Включите переключатель "Свой список возможн." для внесения изменений. Затем включите переключатели у возможностей, которые хотите оставить.</string>
+</dict>
+</plist>

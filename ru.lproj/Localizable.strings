@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPSTORE_APPS</key>
+	<string>Из AppStore</string>
+	<key>CANCEL_ACTIONSHEET</key>
+	<string>Отмена</string>
+	<key>CHOOSE_ACTION_ACTIONSHEET</key>
+	<string>Выбрать действие</string>
+	<key>CREDITS</key>
+	<string>Создатели</string>
+	<key>DAEMON_NOT_RUNNING_MSG</key>
+	<string>Springtomize не работает. Попробуйте переустановить его и перезагрузить устройство.</string>
+	<key>DISMISS_ALERT</key>
+	<string>Скрыть</string>
+	<key>DISMISS_CREDITS</key>
+	<string>Скрыть</string>
+	<key>INSTALL_ALERT</key>
+	<string>Установить</string>
+	<key>LIBRARIES_TITLE</key>
+	<string>Библиотеки</string>
+	<key>RELOAD_BTN</key>
+	<string>Применить</string>
+	<key>RELOAD_SETTINGS_ACTIONSHET</key>
+	<string>Перенастроить</string>
+	<key>REPORT_CRASH_MSG</key>
+	<string>Чтобы сообщить об ошибке, установите Crash Reporter из Cydia.</string>
+	<key>RESET_ACTIONSHEET</key>
+	<string>Сбросить</string>
+	<key>RESPRING_ACTIONSHEET</key>
+	<string>Респринг</string>
+	<key>RESTORE</key>
+	<string>Восстановить</string>
+	<key>RESTORE_DEFAULT_MSG</key>
+	<string>Springtomize установит настройки по умолчанию и сделает респринг.</string>
+	<key>RESTORING</key>
+	<string>Восстановление</string>
+	<key>SAVE</key>
+	<string>Сохранить</string>
+	<key>SAVE_OR_RESTORE_BTN</key>
+	<string>Сохр/Восст</string>
+	<key>SAVING</key>
+	<string>Сохранение</string>
+	<key>SETTINGS_FILES_TITLE</key>
+	<string>Файлы настроек</string>
+	<key>SETTINGS_FILES_WARNING</key>
+	<string>Ниже отображены файлы настроек твиков и программ из Cydia. Проведите по файлу, чтобы удалить его.</string>
+	<key>SYSTEM_APPS</key>
+	<string>Системные</string>
+	<key>WARNING_MS_ADDONS_MSG</key>
+	<string>Ниже можно отключить дополнения MobileSubstrate. Для принятия изменений потребуется респринг.
+
+Все действия выполняются на свой страх и риск.</string>
+</dict>
+</plist>

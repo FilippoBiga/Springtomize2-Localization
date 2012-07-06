@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Custom Lines</key>
+	<string>Изм. кол-во строк</string>
+	<key>Disable</key>
+	<string>Отключить</string>
+	<key>Eight</key>
+	<string>8</string>
+	<key>Five</key>
+	<string>5</string>
+	<key>Four</key>
+	<string>4</string>
+	<key>Instant Clear</key>
+	<string>Кнопка "Очистить"</string>
+	<key>Max Lines</key>
+	<string>Кол-во строк</string>
+	<key>Nine</key>
+	<string>9</string>
+	<key>Not. Center</key>
+	<string>ЦУ</string>
+	<key>One</key>
+	<string>1</string>
+	<key>Seven</key>
+	<string>7</string>
+	<key>Six</key>
+	<string>6</string>
+	<key>Ten</key>
+	<string>10</string>
+	<key>Three</key>
+	<string>3</string>
+	<key>Transparency</key>
+	<string>Прозрачность</string>
+	<key>Two</key>
+	<string>2</string>
+</dict>
+</plist>

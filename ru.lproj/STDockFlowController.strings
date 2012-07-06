@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Apply</key>
+	<string>Прим.</string>
+	<key>Concave</key>
+	<string>Вогнутый</string>
+	<key>Convex</key>
+	<string>Выпуклый</string>
+	<key>Convex (Outside)</key>
+	<string>Выпуклый (снаружи)</string>
+	<key>Curve</key>
+	<string>Искривление</string>
+	<key>Defaults</key>
+	<string>Сбросить</string>
+	<key>Dock</key>
+	<string>Док</string>
+	<key>Dynamic Labels</key>
+	<string>Динам. подписи</string>
+	<key>Effect</key>
+	<string>Эффект</string>
+	<key>Mode</key>
+	<string>Режим</string>
+	<key>Perspective</key>
+	<string>Перспектива</string>
+</dict>
+</plist>

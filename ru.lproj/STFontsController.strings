@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Academy Engraved LET</key>
+	<string>Academy Engraved LET</string>
+	<key>American Typewriter</key>
+	<string>American Typewriter</string>
+	<key>Apple Color Emoji</key>
+	<string>Apple Color Emoji</string>
+	<key>AppleGothic</key>
+	<string>AppleGothic</string>
+	<key>Arial</key>
+	<string>Arial</string>
+	<key>Arial Hebrew</key>
+	<string>Arial Hebrew</string>
+	<key>Arial Rounded MT Bold</key>
+	<string>Arial Rounded MT Bold</string>
+	<key>Bangla Sangam MN</key>
+	<string>Bangla Sangam MN</string>
+	<key>Baskerville</key>
+	<string>Baskerville</string>
+	<key>Bodoni 72</key>
+	<string>Bodoni 72</string>
+	<key>Bodoni 72 Oldstyle</key>
+	<string>Bodoni 72 Oldstyle</string>
+	<key>Bodoni 72 Smallcaps</key>
+	<string>Bodoni 72 Smallcaps</string>
+	<key>Bodoni Ornaments</key>
+	<string>Bodoni Ornaments</string>
+	<key>Bradley Hand</key>
+	<string>Bradley Hand</string>
+	<key>Chalkboard SE</key>
+	<string>Chalkboard SE</string>
+	<key>Chalkduster</key>
+	<string>Chalkduster</string>
+	<key>Cochin</key>
+	<string>Cochin</string>
+	<key>Copperplate</key>
+	<string>Copperplate</string>
+	<key>Courier</key>
+	<string>Courier</string>
+	<key>Courier New</key>
+	<string>Courier New</string>
+	<key>DB LCD Temp</key>
+	<string>DB LCD Temp</string>
+	<key>Devanagari Sangam MN</key>
+	<string>Devanagari Sangam MN</string>
+	<key>Didot</key>
+	<string>Didot</string>
+	<key>Euphemia UCAS</key>
+	<string>Euphemia UCAS</string>
+	<key>Fonts</key>
+	<string>Шрифты</string>
+	<key>Futura</key>
+	<string>Futura</string>
+	<key>Geeza Pro</key>
+	<string>Geeza Pro</string>
+	<key>Georgia</key>
+	<string>Georgia</string>
+	<key>Gill Sans</key>
+	<string>Gill Sans</string>
+	<key>Gujarati Sangam MN</key>
+	<string>Gujarati Sangam MN</string>
+	<key>Gurmukhi MN</key>
+	<string>Gurmukhi MN</string>
+	<key>Heiti J</key>
+	<string>Heiti J</string>
+	<key>Heiti K</key>
+	<string>Heiti K</string>
+	<key>Heiti SC</key>
+	<string>Heiti SC</string>
+	<key>Heiti TC</key>
+	<string>Heiti TC</string>
+	<key>Helvetica</key>
+	<string>Helvetica</string>
+	<key>Helvetica Neue</key>
+	<string>Helvetica Neue</string>
+	<key>Hiragino Kaku Gothic ProN</key>
+	<string>Hiragino Kaku Gothic ProN</string>
+	<key>Hiragino Mincho ProN</key>
+	<string>Hiragino Mincho ProN</string>
+	<key>Hoefler Text</key>
+	<string>Hoefler Text</string>
+	<key>Kailasa</key>
+	<string>Kailasa</string>
+	<key>Kannada Sangam MN</key>
+	<string>Kannada Sangam MN</string>
+	<key>Malayalam Sangam MN</key>
+	<string>Malayalam Sangam MN</string>
+	<key>Marion</key>
+	<string>Marion</string>
+	<key>Marker Felt</key>
+	<string>Marker Felt</string>
+	<key>Noteworthy</key>
+	<string>Noteworthy</string>
+	<key>Optima</key>
+	<string>Optima</string>
+	<key>Oriya Sangam MN</key>
+	<string>Oriya Sangam MN</string>
+	<key>Palatino</key>
+	<string>Palatino</string>
+	<key>Papyrus</key>
+	<string>Papyrus</string>
+	<key>Party LET</key>
+	<string>Party LET</string>
+	<key>Sinhala Sangam MN</key>
+	<string>Sinhala Sangam MN</string>
+	<key>Snell Roundhand</key>
+	<string>Snell Roundhand</string>
+	<key>Tamil Sangam MN</key>
+	<string>Tamil Sangam MN</string>
+	<key>Telugu Sangam MN</key>
+	<string>Telugu Sangam MN</string>
+	<key>Thonburi</key>
+	<string>Thonburi</string>
+	<key>Times New Roman</key>
+	<string>Times New Roman</string>
+	<key>Trebuchet MS</key>
+	<string>Trebuchet MS</string>
+	<key>Verdana</key>
+	<string>Verdana</string>
+	<key>Zapf Dingbats</key>
+	<string>Zapf Dingbats</string>
+	<key>Zapfino</key>
+	<string>Zapfino</string>
+</dict>
+</plist>
