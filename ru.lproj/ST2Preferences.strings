@@ -5,7 +5,7 @@
 	<key>Animations</key>
 	<string>Анимация</string>
 	<key>App Switcher</key>
-	<string>Панель запущенных</string>
+	<string>Панель многозадачности</string>
 	<key>Capabilities</key>
 	<string>Возможности</string>
 	<key>Dock</key>

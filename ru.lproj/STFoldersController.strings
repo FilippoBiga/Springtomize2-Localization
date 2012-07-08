@@ -21,11 +21,11 @@
 	<key>Four</key>
 	<string>4</string>
 	<key>Hide Background</key>
-	<string>Прятать фон</string>
+	<string>Скрывать фон</string>
 	<key>Hide Label</key>
-	<string>Прятать подписи</string>
+	<string>Скрывать подписи</string>
 	<key>Hide Preview</key>
-	<string>Прятать предпросмотр</string>
+	<string>Скрывать предпросмотр</string>
 	<key>Icons per Line</key>
 	<string>Иконок в строке</string>
 	<key>Nine</key>

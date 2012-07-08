@@ -19,13 +19,13 @@
 	<key>Four</key>
 	<string>4</string>
 	<key>Hide Dock</key>
-	<string>Прятать док</string>
+	<string>Скрывать док</string>
 	<key>Hide Labels</key>
-	<string>Прятать подписи</string>
+	<string>Скрывать подписи</string>
 	<key>Hide Reflection</key>
-	<string>Прятать отражение</string>
+	<string>Скрывать отражение</string>
 	<key>Hide Shadow</key>
-	<string>Прятать тень</string>
+	<string>Скрывать тень</string>
 	<key>Icons in Dock</key>
 	<string>Иконок в доке</string>
 	<key>Nine</key>

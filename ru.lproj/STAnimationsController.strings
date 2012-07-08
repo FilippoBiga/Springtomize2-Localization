@@ -6,6 +6,8 @@
 	<string>Анимация</string>
 	<key>App to App transition</key>
 	<string>Переход от прил. к прил.</string>
+	<key>Apply</key>
+	<string>Прим.</string>
 	<key>Black</key>
 	<string>Черный</string>
 	<key>Blue</key>
@@ -16,8 +18,12 @@
 	<string>Цвет</string>
 	<key>Custom Duration</key>
 	<string>Длительность</string>
+	<key>Custom Gamma</key>
+	<string>Свой цвет</string>
 	<key>Cyan</key>
 	<string>Голубой</string>
+	<key>Display Gamma</key>
+	<string>Цветовая гамма</string>
 	<key>Gray</key>
 	<string>Серый</string>
 	<key>Green</key>

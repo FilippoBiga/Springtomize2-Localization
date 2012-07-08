@@ -14,6 +14,8 @@
 	<string>Выбрать батарею</string>
 	<key>Choose Dock</key>
 	<string>Выбрать док</string>
+	<key>Clock Color</key>
+	<string>Изм. цвет часов</string>
 	<key>Clock color</key>
 	<string>Цвет часов</string>
 	<key>Custom Battery</key>
@@ -50,6 +52,8 @@
 	<string>Иконки</string>
 	<key>Image Effect</key>
 	<string>Эффекты</string>
+	<key>LockScreen</key>
+	<string>Экран блокировки</string>
 	<key>Magneta</key>
 	<string>Сиреневый</string>
 	<key>Nine</key>
