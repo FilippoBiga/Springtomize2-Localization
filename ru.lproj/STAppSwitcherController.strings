@@ -21,7 +21,7 @@
 	<key>Four</key>
 	<string>4</string>
 	<key>Hide from Switcher</key>
-	<string>Прятать</string>
+	<string>Скрывать</string>
 	<key>Icons in Switcher</key>
 	<string>Иконок в Панели</string>
 	<key>Inactive Apps Handling</key>
@@ -39,7 +39,7 @@
 	<key>Six</key>
 	<string>6</string>
 	<key>Start Editing</key>
-	<string>Режим редактирования</string>
+	<string>Режим редактир.</string>
 	<key>Start with iPod</key>
 	<string>Начинать с управл. iPod</string>
 	<key>Ten</key>

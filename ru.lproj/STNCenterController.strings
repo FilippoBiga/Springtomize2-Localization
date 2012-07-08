@@ -2,8 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Blurried</key>
+	<string>Блюр</string>
+	<key>Custom Background</key>
+	<string>Фон</string>
 	<key>Custom Lines</key>
 	<string>Изм. кол-во строк</string>
+	<key>Default</key>
+	<string>Станд.</string>
 	<key>Disable</key>
 	<string>Отключить</string>
 	<key>Eight</key>
@@ -32,6 +38,8 @@
 	<string>3</string>
 	<key>Transparency</key>
 	<string>Прозрачность</string>
+	<key>Transparent</key>
+	<string>Прозр.</string>
 	<key>Two</key>
 	<string>2</string>
 </dict>

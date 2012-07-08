@@ -7,7 +7,7 @@
 	<key>Disable Spotlight</key>
 	<string>Откл. Spotlight</string>
 	<key>Hide Dots</key>
-	<string>Прятать инд. страниц</string>
+	<string>Скрывать инд. страниц</string>
 	<key>Pages</key>
 	<string>Страницы</string>
 	<key>Remove Page Limits</key>
