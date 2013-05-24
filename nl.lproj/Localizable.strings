@@ -1,10 +1,10 @@
 /* 
  *  Created by Filippo Bigarella on 30/12/11.
- * 
+ *  Last edit by @vroeeem on 05/24/12.
  */
 
 RELOAD_BTN = "Herladen";
-CHOOSE_ACTION_ACTIONSHEET = "Kies aktie";
+CHOOSE_ACTION_ACTIONSHEET = "Kies actie";
 CANCEL_ACTIONSHEET = "Annuleer";
 RESPRING_ACTIONSHEET = "Respring";
 RELOAD_SETTINGS_ACTIONSHET = "Herlaad instellingen";
@@ -24,11 +24,11 @@ RESET_ACTIONSHEET = "Reset";
 
 
 LIBRARIES_TITLE = "Bibliotheken";
-WARNING_MS_ADDONS_MSG = "U kan elke MobileSubstrate addon in- of uitschakelen. Een Respring is vereist om een wijziging effectief door te voeren.\n\
-Opgelet! Enkel wijzigingen doorvoeren met kennis van zaken of u riskeert het toestel te onbruikbaar te maken.";
+WARNING_MS_ADDONS_MSG = "U kunt elke MobileSubstrate addon in- of uitschakelen. Een Respring is vereist om een wijziging effectief door te voeren.\n\
+Let op! Enkel wijzigingen doorvoeren met kennis van zaken of u riskeert het toestel onbruikbaar te maken.";
 
 SETTINGS_FILES_TITLE = "Instellingsbestanden";
-SETTINGS_FILES_WARNING = "";
+SETTINGS_FILES_WARNING = "Hier zijn alle geïnstalleerde instellingsbestanden weergegeven welke een tweak of jailbreak applicatie toebehoren. Veeg over een invoer om het te verwijderen. Dit kan nuttig zijn als er zich problemen voordoen.";
 
 SAVE_OR_RESTORE_BTN = "Bewaar/Herstel";
 SAVE = "Bewaar";
@@ -36,4 +36,4 @@ RESTORE = "Herstel";
 SAVING = "Aan het opslaan";
 RESTORING = "Aan het herstellen";
 
-DAEMON_NOT_RUNNING_MSG = "The Springtomize daemon is not running: this means that something wrong happened when Springtomize was installed. Please try reinstalling Springtomize and rebooting your device. Most of the times this problem is related to a launchd issue with the 5.0.1 untethered jailbreak.";
+DAEMON_NOT_RUNNING_MSG = "De Springtomize daemon draait niet: dit betekend dat er iets mis is gegaan bij de installatie van Springtomize. Herinstalleer Springtomize en herstart uw apparaat. Meestal is dit probleem gerelateerd aan een launchd kwestie met de 5.0.1 untethered jailbreak.";
